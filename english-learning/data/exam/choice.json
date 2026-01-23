@@ -1,0 +1,338 @@
+[
+  {
+    "title": "芝浦工業大学",
+    "question": "All trains stopped yesterday and the meeting ___.",
+    "hint": "昨日はすべての電車が止まり、そのため会議は○○。",
+    "choices": ["had to cancel", "had cancelled", "had to be cancelled", "had been to be cancelled"],
+    "answer": "had to be cancelled",
+    "type": "select",
+    "comment": {
+      "had to cancel": "〜を中止しなければならなかった",
+      "had cancelled": "中止していた",
+      "had to be cancelled": "中止されなければならなかった",
+      "had been to be cancelled": "中止される予定だった"
+    }
+  },
+  {
+    "title": "名古屋学院大学",
+    "question": "You have to get ___ for the dinner party tonight.",
+    "hint": "あなたは今夜のディナーパーティーのために○○しなければならない。",
+    "choices": ["dress", "to dress", "dressed", "dressing"],
+    "answer": "dressed",
+    "type": "select",
+    "comment": {
+      "dress": "服を着せる",
+      "to dress": "服を着ること",
+      "dressed": "服を着た状態になる",
+      "dressing": "着衣"
+    }
+  },
+  {
+    "title": "立命館大学",
+    "question": "She was laughed ___ her friends when she came to a class party in pajamas.",
+    "hint": "彼女がパジャマでクラスのパーティーに来たとき、友人たちは彼女を○○。",
+    "choices": ["at by", "at for", "by", "with"],
+    "answer": "at by",
+    "type": "select",
+    "comment": {
+      "at by": "〜に笑われて",
+      "at for": "〜のために笑って",
+      "by": "〜によって",
+      "with": "〜と一緒に"
+    }
+  },
+  {
+    "title": "東京電機大学",
+    "question": "The thief was seen ___ away from the building.",
+    "hint": "その泥棒は建物から○○のを目撃された。",
+    "choices": ["run", "to run", "ran", "running"],
+    "answer": "run",
+    "type": "select",
+    "comment": {
+      "run": "走る",
+      "to run": "走ること",
+      "ran": "走った",
+      "running": "走っている"
+    }
+  },
+  {
+    "title": "関西学院大学",
+    "question": "He was seen ___ into a coffee shop with his friend.",
+    "hint": "彼は友人と一緒に喫茶店に○○のを目撃された。",
+    "choices": ["go", "going", "gone", "went"],
+    "answer": "going",
+    "type": "select",
+    "comment": {
+      "go": "行く",
+      "going": "行っている",
+      "gone": "行ってしまった",
+      "went": "行った"
+    }
+  },
+  {
+    "title": "慶応大学",
+    "question": "The teacher asked me at what temperature water ___.",
+    "hint": "先生は水が何度で○○か私に尋ねた。",
+    "choices": ["boiled", "boils", "is boiled", "was boiled"],
+    "answer": "boils",
+    "type": "select",
+    "comment": {
+      "boiled": "沸騰した",
+      "boils": "沸騰する",
+      "is boiled": "沸騰させられる",
+      "was boiled": "沸騰させられた"
+    }
+  },
+  {
+    "title": "杏林大学",
+    "question": "Judy: What do you do? Taku: ___.",
+    "hint": "ジュディ「お仕事は何ですか？」タク「○○。」",
+    "choices": ["I'm cleaning my room", "Fine, thank you", "I'm a university student", "I like it very much"],
+    "answer": "I'm a university student",
+    "type": "select",
+    "comment": {
+      "I'm cleaning my room": "私は部屋を掃除しています",
+      "Fine, thank you": "元気です、ありがとう",
+      "I'm a university student": "私は大学生です",
+      "I like it very much": "私はそれがとても好きです"
+    }
+  },
+  {
+    "title": "大阪経済大学",
+    "question": "Not only Rie but also her mother ___ to that chorus club.",
+    "hint": "リエだけでなく、彼女の母親もその合唱クラブに○○。",
+    "choices": ["belong", "belongs", "is belonging", "are belonging"],
+    "answer": "belongs",
+    "type": "select",
+    "comment": {
+      "belong": "所属する",
+      "belongs": "所属している",
+      "is belonging": "所属しているところだ",
+      "are belonging": "所属している（複数）"
+    }
+  },
+  {
+    "title": "大学入試センター試験",
+    "question": "“Have you seen Yuko recently?” “No, but ___ dinner with her on Sunday.”",
+    "hint": "「最近ユウコに会った？」「いいえ、でも日曜に彼女と○○。」",
+    "choices": ["I'm having", "I've been having", "I'd have", "I've had"],
+    "answer": "I'm having",
+    "type": "select",
+    "comment": {
+      "I'm having": "（予定として）持っている／する",
+      "I've been having": "ずっと持っている",
+      "I'd have": "持つだろう",
+      "I've had": "持ったことがある"
+    }
+  },
+  {
+    "title": "近畿大学",
+    "question": "You won't pass the history test tomorrow unless you ___ very much.",
+    "hint": "明日の歴史のテストは、あなたがとても○○しない限り合格しない。",
+    "choices": ["don't study", "study", "studied", "will study"],
+    "answer": "study",
+    "type": "select",
+    "comment": {
+      "don't study": "勉強しない",
+      "study": "勉強する",
+      "studied": "勉強した",
+      "will study": "勉強するつもりだ"
+    }
+  },
+  {
+    "title": "神戸学院大学",
+    "question": "My friend is caught in a traffic jam. The game will be over by the time he ___.",
+    "hint": "友人は渋滞に巻き込まれている。彼が○○までに試合は終わってしまう。",
+    "choices": ["comes", "may come", "will come", "will have come"],
+    "answer": "comes",
+    "type": "select",
+    "comment": {
+      "comes": "来る",
+      "may come": "来るかもしれない",
+      "will come": "来るだろう",
+      "will have come": "来ているだろう"
+    }
+  },
+  {
+    "title": "明星大学",
+    "question": "It ___ a few days before we know the full results of the medical checkup.",
+    "hint": "健康診断の完全な結果が分かるまでに数日○○。",
+    "choices": ["has been", "should have been", "was", "will be"],
+    "answer": "will be",
+    "type": "select",
+    "comment": {
+      "has been": "〜だった",
+      "should have been": "〜だったはずだ",
+      "was": "〜だった",
+      "will be": "〜になるだろう"
+    }
+  },
+  {
+    "title": "亜細亜大学",
+    "question": "Some books will be forgotten as soon as we ___ them.",
+    "hint": "私たちがそれらを○○とすぐに忘れられてしまう本もある。",
+    "choices": ["have read", "will have read", "will read", "reading"],
+    "answer": "have read",
+    "type": "select",
+    "comment": {
+      "have read": "読んでしまった",
+      "will have read": "読んでしまっているだろう",
+      "will read": "読むだろう",
+      "reading": "読んでいること"
+    }
+  },
+  {
+    "title": "共立女子大学",
+    "question": "Could you ask Mary to call me back when she ___ home?",
+    "hint": "メアリーが家に○○とき、私に折り返し電話するよう頼んでもらえますか。",
+    "choices": ["came", "come", "comes", "will come"],
+    "answer": "comes",
+    "type": "select",
+    "comment": {
+      "came": "来た",
+      "come": "来る",
+      "comes": "来る",
+      "will come": "来るだろう"
+    }
+  },
+  {
+    "title": "名城大学",
+    "question": "Tell me ___ to the United States.",
+    "hint": "あなたがいつアメリカに○○か教えてください。",
+    "choices": ["when will you come", "that when will you come", "that when you will come", "when you will come"],
+    "answer": "when you will come",
+    "type": "select",
+    "comment": {
+      "when will you come": "いつ来ますか",
+      "that when will you come": "いつ来るかということ",
+      "that when you will come": "いつ来るかということ",
+      "when you will come": "いつ来るか"
+    }
+  },
+  {
+    "title": "東京理科大学",
+    "question": "___ did I have time to eat before I had to start work.",
+    "hint": "仕事を始めなければならない前に食事をする時間は○○なかった。",
+    "choices": ["Rarely", "Oily", "Costly", "Apply"],
+    "answer": "Rarely",
+    "type": "select",
+    "comment": {
+      "Rarely": "めったに〜ない",
+      "Oily": "油っぽい",
+      "Costly": "高価な",
+      "Apply": "適用する"
+    }
+  },
+  {
+    "title": "高知大学",
+    "question": "Bill said that only then ___ what she meant.",
+    "hint": "ビルは、そのときになって初めて彼女の言った意味が○○と言った。",
+    "choices": ["he can understand", "understood he", "could he understand", "he did understand"],
+    "answer": "could he understand",
+    "type": "select",
+    "comment": {
+      "he can understand": "彼は理解できる",
+      "understood he": "理解した彼は",
+      "could he understand": "彼は理解できた",
+      "he did understand": "彼は本当に理解した"
+    }
+  },
+  {
+    "title": "清泉女子大学",
+    "question": "It ___ the Titanic sank while crossing the Atlantic Ocean.",
+    "hint": "タイタニック号が大西洋横断中に沈没したのは○○。",
+    "choices": ["is 1912 when", "which was in 1912", "in 1912 that", "was in 1912 that"],
+    "answer": "was in 1912 that",
+    "type": "select",
+    "comment": {
+      "is 1912 when": "1912年であるとき",
+      "which was in 1912": "それは1912年だった",
+      "in 1912 that": "1912年に",
+      "was in 1912 that": "1912年だったのは"
+    }
+  },
+  {
+    "title": "関東学院大学",
+    "question": "It is ___ in modern times that swimming has come to play a part as recreation.",
+    "hint": "水泳が娯楽としての役割を果たすようになったのは近代になって○○。",
+    "choices": ["not without", "until", "not because", "not until"],
+    "answer": "not until",
+    "type": "select",
+    "comment": {
+      "not without": "〜なしには",
+      "until": "〜まで",
+      "not because": "〜だからではなく",
+      "not until": "〜になって初めて"
+    }
+  },
+  {
+    "title": "高崎経済大学",
+    "question": "This is the cottage ___ our family spent the winter enjoying the beautiful scenery.",
+    "hint": "これは、私たちの家族が美しい景色を楽しみながら冬を過ごした○○別荘だ。",
+    "choices": ["whose", "what", "which", "where"],
+    "answer": "where",
+    "type": "select",
+    "comment": {
+      "whose": "〜のもの",
+      "what": "〜するもの",
+      "which": "どちらの",
+      "where": "〜する場所"
+    }
+  },
+  {
+    "title": "武蔵大学",
+    "question": "Attached is a copy of a short article ___ you may find useful.",
+    "hint": "役に立つかもしれない短い記事のコピーを○○添付します。",
+    "choices": ["as", "if", "where", "which"],
+    "answer": "which",
+    "type": "select",
+    "comment": {
+      "as": "〜として",
+      "if": "もし〜なら",
+      "where": "〜する場所",
+      "which": "そしてそれは"
+    }
+  },
+  {
+    "title": "関西学院大学",
+    "question": "As the bed ___ last night wasn't very comfortable, I couldn't get much sleep.",
+    "hint": "昨夜○○ベッドがあまり快適ではなかったので、あまり眠れなかった。",
+    "choices": ["I slept", "In that I slept", "I slept in", "in I slept"],
+    "answer": "I slept in",
+    "type": "select",
+    "comment": {
+      "I slept": "私は眠った",
+      "In that I slept": "私が眠ったという点で",
+      "I slept in": "私が寝た",
+      "in I slept": "私が中で眠った"
+    }
+  },
+  {
+    "title": "日本女子大学",
+    "question": "By counting the white blood cells, we can estimate the degree ___ the body can resist disease.",
+    "hint": "白血球を数えることで、体が病気に抵抗できる○○程度を推定できる。",
+    "choices": ["so that", "to which", "what", "whose"],
+    "answer": "to which",
+    "type": "select",
+    "comment": {
+      "so that": "〜するために",
+      "to which": "〜する程度に",
+      "what": "〜すること",
+      "whose": "〜のもの"
+    }
+  },
+  {
+    "title": "関西学院大学",
+    "question": "He wrote novels, the subjects of ___ were taken from real life.",
+    "hint": "彼は題材が実生活から取られた小説を○○書いた。",
+    "choices": ["none", "that", "what", "which"],
+    "answer": "which",
+    "type": "select",
+    "comment": {
+      "none": "何もない",
+      "that": "それ",
+      "what": "〜するもの",
+      "which": "そしてそれは"
+    }
+  }
+]
