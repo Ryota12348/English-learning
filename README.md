@@ -14,9 +14,8 @@ data/
 │     ├─ choice.json
 │     └─ reorder.json
 ├─ exam/
-│  └─ entrance/
-│     ├─ choice.json
-│     └─ writing.json
+│  ├─ choice.json
+│  └─ writing.json
 └─ workbook/
    └─ review.json
 
