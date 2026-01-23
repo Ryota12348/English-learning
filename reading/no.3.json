@@ -1,0 +1,97 @@
+[
+  {
+    "title": "【Grade Pre-2 No.3】\nRead each passage and choose the best word or phrase from among the four choices for each blank. Then, on your answer sheet, find the number of the question and mark your answer.",
+    "description": "Friendship with Mrs. Philip \n \n Ellie is a high school student. She and her parents moved to a town by the sea last year. When Ellie's family moved in, their neighbor, Mrs. Philip, brought them a cherry pie to welcome them to the neighborhood. It was delicious. Ellie asked Mrs. Philip to teach her how to make it. One day, Mrs. Philip happily ( 1 ). During that time, they enjoyed cooking and talking together.\n \n Ellie often visited Mrs. Philip's house and did her homework after school on weekdays. Mrs. Philip sometimes helped Ellie with it. However, last month, Mrs. Philip had to leave home for a month to take care of her sick brother, who lived far away. Ellie ( 2 ) every day. So, she started exchanging e-mails with Mrs. Philip. When Mrs. Philip finally came back, Ellie brought her a cherry pie to welcome her back.",
+    "questions": [
+      {
+        "sub_id": "A",
+        "question": "( 1 )",
+        "choices": [
+          "gave Ellie a cherry pie",
+          "told Ellie about a good bakery",
+          "introduced other neighbors to Ellie",
+          "invited Ellie to her home"
+        ],
+        "answer": "invited Ellie to her home"
+      },
+      {
+        "sub_id": "B",
+        "question": "( 2 )",
+        "choices": [
+          "enjoyed swimming in the sea",
+          "felt very sad and missed her",
+          "watched TV with him",
+          "went to her house"
+        ],
+        "answer": "watched TV with him"
+      }
+    ]
+  },
+  {
+    "title":"【Grade Pre-2 No.3】\nRead each passage and choose the best word or phrase from among the four choices for each blank. Then, on your answer sheet, find the number of the question and mark your answer.",
+    "description": "Jack's cookies\n\nFor Mother's Day, Jack decided to bake some cookies for his mother. Jack's mother always does everything for him. He had never even ( 1 ), but he tried his best to make delicious cookies without any help. He did not forget to use milk, flour, and of course, white powder which was stored in a plastic box with a large \"S\" on it.\n\nOn the next day, Jack gave the cookies to his mother to show gratitude. She got really happy and ate them in front of Jack. After drinking water, Jack's mother smiled and said, \"I am proud of your effort to make these cookies by yourself! But you used a wrong ingredient that starts with an 'S'. Next time, you might as well use sugar ( 2 )!\"",
+    "questions": [
+      {
+        "sub_id": "A",
+        "question": "( 1 ) ",
+        "choices": [
+          "been inside the kitchen",
+          "thought of his mother",
+          "been in to the living room",
+          "eaten a cookie"
+        ],
+        "answer": "been inside the kitchen"
+      },
+      {
+        "sub_id": "B",
+        "question": "( 2 )",
+        "choices": [
+          "instead of salt",
+          "more and more",
+          "or milk",
+          "as much as flour"
+        ],
+        "answer": "instead of salt"
+      }
+    ]
+  },
+  {
+    "title": "【Grade Pre-2 No.3】\nRead the following passage and answer the questions below.",
+    "description": "Why Danish feel happy\n\nThe World Happiness Report is a survey that shows global happiness degree, conducted by United Nations*. Results of this kind of surveys can change depending on targeted countries and intentions, especially given that happiness is a very personal feeling, which ( 1 ). In this report by United Nations, they measure happiness with a questionnaire answered by citizens of each country. According to the World Happiness Report 2018, Denmark was ranked as one of the three happiest countries for 6 straight years among 156 countries.\n\nWhy Danish people evaluate themselves and their lives so positive? Denmark is famous for its high taxes. However, most of the Danish ( 2 ) because of the world's top class education and free medical services. Danish believe that the social system improves with higher taxes. But this is not the only reason why Danish tend to feel happier than others.\n\nThere is a special word \"hygge\" in the Danish language. It is impossible to perfectly translate the word into English or any other language. The key to understanding this word is a close trust relationship with people around. It has a close meaning to \"a feeling of comfort and satisfaction ( 3 )\". They put great value on this delightful time with family and friends they love, which leads them to feel happy.\n\nHappiness is one of the most important feelings for humans because it gives us the power to live. That's why from ancient times, lots of thought and laws were created to protect and sustain people's happiness.",
+    "questions": [
+      {
+        "sub_id": "A",
+        "question": "Choose the appropriate word to fit in ( 1 ).",
+        "choices": [
+          "only a limitted type of people have",
+          "differs widely in individuals",
+          "is exactly the same with everyone",
+          "was found only a couple of years ago"
+        ],
+        "answer": "differs widely in individuals"
+      },
+      {
+        "sub_id": "B",
+        "question": "Choose the appropriate word to fit in ( 2 ).",
+        "choices": [
+          "are reluctant to pay such a high tax",
+          "do not know they are happy",
+          "are happy to pay such high taxes",
+          "do not care about yourself"
+        ],
+        "answer": "are happy to pay such high taxes"
+      },
+      {
+        "sub_id": "C",
+        "question": "Choose the appropriate word to fit in ( 3 ).",
+        "choices": [
+          "living in a comfortable house",
+          "surrounded by loved ones",
+          "obeying a law to pay lots of tax",
+          "eating deilicous food and drink"
+        ],
+        "answer": "surrounded by loved ones"
+      }
+    ]
+  }
+]

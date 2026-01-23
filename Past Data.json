@@ -1,0 +1,296 @@
+[
+  {
+    "title": "",
+    "question": "Walter's soccer team lost the game because they did not play ___ enough.",
+    "choices": ["needlessly", "aggressively", "cautiously", "helplessly"],
+    "answer": "aggressively",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "Tom is very bright for his age. He is able to do math problems of some ___ although his classmates are still learning the basics.",
+    "choices": ["appliance", "generosity", "clearance", "complexity"],
+    "answer": "complexity",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "Annual floods along the Nile River make the soil there extremely ___.",
+    "choices": ["devout", "wretched", "earnest", "fertile"],
+    "answer": "fertile",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "The children could not ___ opening their presents on Christmas morning.",
+    "choices": ["resist", "dispute", "flourish", "drain"],
+    "answer": "resist",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "A man was arrested at the airport yesterday for attempting to ___ drugs into the country.",
+    "choices": ["erupt", "smuggle", "reign", "infest"],
+    "answer": "smuggle",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "Soon after they met, the young couple became ___ their free time together.",
+    "choices": ["implicit", "inedible", "immature", "inseparable"],
+    "answer": "inseparable",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "Although the medicine did not completely relieve Frank's headache, it made the pain more ___.",
+    "choices": ["tolerable", "slippery", "militant", "abrupt"],
+    "answer": "tolerable",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "The man was in ___ that his marriage was over.",
+    "choices": ["denial", "contradiction", "majesty", "prejudice"],
+    "answer": "denial",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "The walls inside the city hall building are decorated with ___ painted by famous artists.",
+    "choices": ["memoirs", "margins", "monarchies", "murals"],
+    "answer": "murals",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "The Ferris wheel began to ___ slowly, lifting the carriages and their passengers high above the city and then down again.",
+    "choices": ["revolve", "digest", "compile", "afflict"],
+    "answer": "revolve",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "Yesterday, a ___ broke out in the state prison.",
+    "choices": ["flurry", "cascade", "swirl", "riot"],
+    "answer": "riot",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "Brad drove so carelessly that it was ___ he would have an accident.",
+    "choices": ["crucial", "debatable", "inevitable", "sacrificial"],
+    "answer": "inevitable",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "Although her son claims he broke the vase by accident, Anika thinks he did it ___ because he was angry at her for making him clean his room.",
+    "choices": ["loyally", "deliberately", "spatially", "expansively"],
+    "answer": "deliberately",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "Many residents wanted to ___ the town hall as a historic building since it was over one hundred years old.",
+    "choices": ["designate", "assemble", "undertake", "compromise"],
+    "answer": "designate",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "As soon as they heard police sirens, the thieves ___ into the woods to avoid being caught.",
+    "choices": ["took off", "missed out", "wore out", "passed over"],
+    "answer": "took off",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "The Nelsons tried to sell their house earlier this year, but few people were interested in buying it. They have decided to ___ until the market improves.",
+    "choices": ["turn over", "ring in", "hold off", "rain down"],
+    "answer": "hold off",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "Emergency services were having difficulty getting to the scene of the accident, so the police ___ traffic to another road to make space for ambulances and fire trucks.",
+    "choices": ["infected", "recited", "galloped", "diverted"],
+    "answer": "diverted",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "The teacher suddenly lost his temper and shouted at the class to be quiet. Following his ___, all the students in the classroom went silent.",
+    "choices": ["intake", "outburst", "breakup", "layout"],
+    "answer": "outburst",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "That's odd. She usually gives such ___ replies.",
+    "choices": ["slender", "gloomy", "abnormal", "prompt"],
+    "answer": "prompt",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "Researchers at the drug company have improved the ___ of their headache medicine.",
+    "choices": ["excursion", "potency", "friction", "negligence"],
+    "answer": "potency",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "Using a smartphone while driving is now illegal in many places because it ___ drivers, who should always be watching the road.",
+    "choices": ["distracts", "reforms", "pacifies", "dismisses"],
+    "answer": "distracts",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "In an effort to reduce government spending, the government has ___ the post office by allowing a for-profit corporation to take it over.",
+    "choices": ["formulated", "privatized", "ventilated", "deformed"],
+    "answer": "privatized",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "Most of the topics discussed in the weekly meeting are ___ to his section.",
+    "choices": ["occupied", "invisible", "irrelevant", "anxious"],
+    "answer": "irrelevant",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "After a storm, flooding can make roads ___.",
+    "choices": ["hazardous", "vigorous", "furious", "monotonous"],
+    "answer": "hazardous",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "Although the company faced strong competition, its innovative products gave it a ___ advantage in the market.",
+    "choices": ["barren", "spacious", "temporary", "distinct"],
+    "answer": "distinct",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "To ensure the safety of all passengers, the airline has implemented ___ security measures at all airports.",
+    "choices": ["supreme", "edible", "marine", "ongoing"],
+    "answer": "ongoing",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "The museum curator asked the visitors to not ___ the ancient artifacts on display to preserve them for future generations.",
+    "choices": ["crawl", "touch", "magnify", "sneeze"],
+    "answer": "touch",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "The experienced detective had a strong ___ that the witness was not telling the whole truth about the incident.",
+    "choices": ["routine", "suspicion", "outcome", "reference"],
+    "answer": "suspicion",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "The government implemented a series of ___ reforms to address the widespread corruption within the public sector.",
+    "choices": ["ethical", "reasonable", "drastic", "fragile"],
+    "answer": "drastic",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "The sudden increase in the price of oil caused ___ across the country, leading to protests and demands for government intervention.",
+    "choices": ["turmoil", "prosperity", "heritage", "hospitality"],
+    "answer": "turmoil",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "After years of hard work and dedication, the scientist celebrated her ___ with colleagues and family.",
+    "choices": ["triumph", "junk", "landmark", "valley"],
+    "answer": "triumph",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "A: Could you please ___ my apologies to Mr. Smith for missing our appointment?",
+    "choices": ["modify", "detect", "convey", "endorse"],
+    "answer": "convey",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "A: What is that unpleasant ___ coming from the kitchen?",
+    "choices": ["landscape", "odor", "wealth", "boundary"],
+    "answer": "odor",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "The city center was ___ decorated with colorful lights and banners for the annual festival.",
+    "choices": ["virtually", "unfairly", "roughly", "densely"],
+    "answer": "densely",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "The chef created a ___ dish that combined traditional Japanese ingredients with French cooking techniques.",
+    "choices": ["spacious", "relevant", "bizarre", "temporary"],
+    "answer": "bizarre",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "The sailor carefully tied a secure ___ to fasten the boat to the pier.",
+    "choices": ["nerve", "knot", "tissue", "germ"],
+    "answer": "knot",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "There was a ___ silence in the courtroom as the judge read out the verdict.",
+    "choices": ["stunned", "edible", "moral", "nuclear"],
+    "answer": "stunned",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "In order to explore the narrow passage, the spelunker had to ___ on his stomach through the tight space.",
+    "choices": ["hover", "stroll", "crawl", "soar"],
+    "answer": "crawl",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "A: I can’t believe they decided to ___ the old library.",
+    "choices": ["break into", "look up", "hand over", "tear down"],
+    "answer": "tear down",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "Many students find it challenging to ___ the high expectations of their parents and teachers.",
+    "choices": ["look forward to", "get along with", "come down with", "live up to"],
+    "answer": "live up to",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "Despite the complexity of the mathematical problem, she was able to ___ it with relative ease.",
+    "choices": ["figure out", "run into", "drop off", "go over"],
+    "answer": "figure out",
+    "type": "select"
+  },
+  {
+    "title": "",
+    "question": "The comedian used witty jokes and engaging stories to ___ the audience at the beginning of his performance.",
+    "choices": ["win over", "put off", "take back", "use up"],
+    "answer": "win over",
+    "type": "select"
+  }
+]

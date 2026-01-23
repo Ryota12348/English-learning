@@ -1,0 +1,800 @@
+[
+  {
+    "title": "",
+    "question": "Walter's soccer team lost the game because they did not play ___ enough.",
+    "hint": "ウォルターのサッカーチームは、十分に○○なプレーをしなかったため試合に負けた。",
+    "choices": [
+      "needlessly",
+      "aggressively",
+      "cautiously",
+      "helplessly"
+    ],
+    "answer": "aggressively",
+    "type": "select",
+    "comment": {
+      "needlessly": "不必要に",
+      "aggressively": "攻撃的に",
+      "cautiously": "慎重に",
+      "helplessly": "無力に"
+    }
+  },
+  {
+    "title": "",
+    "question": "Tom is very bright for his age. He is able to do math problems of some ___ although his classmates are still learning the basics.",
+    "hint": "トムは年齢の割にとても頭が良く、クラスメートが基礎を学んでいる間に、ある程度○○な数学の問題を解くことができる。",
+    "choices": [
+      "appliance",
+      "generosity",
+      "clearance",
+      "complexity"
+    ],
+    "answer": "complexity",
+    "type": "select",
+    "comment": {
+      "appliance": "電化製品",
+      "generosity": "寛大さ",
+      "clearance": "撤去",
+      "complexity": "複雑さ"
+    }
+  },
+  {
+    "title": "",
+    "question": "Annual floods along the Nile River make the soil there extremely ___.",
+    "hint": "ナイル川沿いの毎年の洪水は、その土地の土壌を非常に○○にする。",
+    "choices": [
+      "devout",
+      "wretched",
+      "earnest",
+      "fertile"
+    ],
+    "answer": "fertile",
+    "type": "select",
+    "comment": {
+      "devout": "信心深い",
+      "wretched": "悲惨な",
+      "earnest": "真剣な",
+      "fertile": "肥沃な"
+    }
+  },
+  {
+    "title": "",
+    "question": "The children could not ___ opening their presents on Christmas morning.",
+    "hint": "子どもたちはクリスマスの朝、プレゼントを開けるのを○○できなかった。",
+    "choices": [
+      "resist",
+      "dispute",
+      "flourish",
+      "drain"
+    ],
+    "answer": "resist",
+    "type": "select",
+    "comment": {
+      "resist": "抵抗する",
+      "dispute": "論争する",
+      "flourish": "繁栄する",
+      "drain": "排出する"
+    }
+  },
+  {
+    "title": "",
+    "question": "A man was arrested at the airport yesterday for attempting to ___ drugs into the country.",
+    "hint": "その男は麻薬を国内に○○しようとしたとして、昨日空港で逮捕された。",
+    "choices": [
+      "erupt",
+      "smuggle",
+      "reign",
+      "infest"
+    ],
+    "answer": "smuggle",
+    "type": "select",
+    "comment": {
+      "erupt": "噴出する",
+      "smuggle": "密輸する",
+      "reign": "支配する",
+      "infest": "はびこる"
+    }
+  },
+  {
+    "title": "",
+    "question": "Soon after they met, the young couple became ___ their free time together.",
+    "hint": "出会って間もなく、その若いカップルは自由な時間を常に一緒に過ごすほど○○になった。",
+    "choices": [
+      "implicit",
+      "inedible",
+      "immature",
+      "inseparable"
+    ],
+    "answer": "inseparable",
+    "type": "select",
+    "comment": {
+      "implicit": "暗黙の",
+      "inedible": "食べられない",
+      "immature": "未熟な",
+      "inseparable": "切り離せない"
+    }
+  },
+  {
+    "title": "",
+    "question": "Although the medicine did not completely relieve Frank's headache, it made the pain more ___.",
+    "hint": "その薬はフランクの頭痛を完全には和らげなかったが、痛みをより○○なものにした。",
+    "choices": [
+      "tolerable",
+      "slippery",
+      "militant",
+      "abrupt"
+    ],
+    "answer": "tolerable",
+    "type": "select",
+    "comment": {
+      "tolerable": "耐えられる",
+      "slippery": "滑りやすい",
+      "militant": "好戦的な",
+      "abrupt": "突然の"
+    }
+  },
+  {
+    "title": "",
+    "question": "The man was in ___ that his marriage was over.",
+    "hint": "その男性は、自分の結婚生活が終わったという事実を○○していた。",
+    "choices": [
+      "denial",
+      "contradiction",
+      "majesty",
+      "prejudice"
+    ],
+    "answer": "denial",
+    "type": "select",
+    "comment": {
+      "denial": "否定",
+      "contradiction": "矛盾",
+      "majesty": "威厳",
+      "prejudice": "偏見"
+    }
+  },
+  {
+    "title": "",
+    "question": "The walls inside the city hall building are decorated with ___ painted by famous artists.",
+    "hint": "市庁舎の建物内の壁は、有名な芸術家によって描かれた○○で装飾されている。",
+    "choices": [
+      "memoirs",
+      "margins",
+      "monarchies",
+      "murals"
+    ],
+    "answer": "murals",
+    "type": "select",
+    "comment": {
+      "memoirs": "回想録",
+      "margins": "余白",
+      "monarchies": "君主制",
+      "murals": "壁画"
+    }
+  },
+  {
+    "title": "",
+    "question": "The Ferris wheel began to ___ slowly, lifting the carriages and their passengers high above the city and then down again.",
+    "hint": "観覧車はゆっくりと○○し始め、乗客を街の高くまで持ち上げてから再び下ろした。",
+    "choices": [
+      "revolve",
+      "digest",
+      "compile",
+      "afflict"
+    ],
+    "answer": "revolve",
+    "type": "select",
+    "comment": {
+      "revolve": "回転する",
+      "digest": "消化する",
+      "compile": "編集する",
+      "afflict": "苦しめる"
+    }
+  },
+  {
+    "title": "",
+    "question": "Yesterday, a ___ broke out in the state prison.",
+    "hint": "昨日、州立刑務所で○○が発生した。",
+    "choices": [
+      "flurry",
+      "cascade",
+      "swirl",
+      "riot"
+    ],
+    "answer": "riot",
+    "type": "select",
+    "comment": {
+      "flurry": "突風",
+      "cascade": "小滝",
+      "swirl": "渦",
+      "riot": "暴動"
+    }
+  },
+  {
+    "title": "",
+    "question": "Brad drove so carelessly that it was ___ he would have an accident.",
+    "hint": "ブラッドはあまりにも不注意な運転をしたので、事故を起こすのは○○だった。",
+    "choices": [
+      "crucial",
+      "debatable",
+      "inevitable",
+      "sacrificial"
+    ],
+    "answer": "inevitable",
+    "type": "select",
+    "comment": {
+      "crucial": "極めて重要な",
+      "debatable": "議論の余地がある",
+      "inevitable": "避けられない",
+      "sacrificial": "犠牲の"
+    }
+  },
+  {
+    "title": "",
+    "question": "Although her son claims he broke the vase by accident, Anika thinks he did it ___ because he was angry at her for making him clean his room.",
+    "hint": "息子は花瓶を誤って割ったと言っているが、アニカは、部屋の掃除をさせられたことに腹を立てて○○にやったのだと思っている。",
+    "choices": [
+      "loyally",
+      "deliberately",
+      "spatially",
+      "expansively"
+    ],
+    "answer": "deliberately",
+    "type": "select",
+    "comment": {
+      "loyally": "忠実に",
+      "deliberately": "故意に",
+      "spatially": "空間的に",
+      "expansively": "広範に"
+    }
+  },
+  {
+    "title": "",
+    "question": "Many residents wanted to ___ the town hall as a historic building since it was over one hundred years old.",
+    "hint": "多くの住民は、その町役場が100年以上前の建物であるため、歴史的建造物として○○したいと考えていた。",
+    "choices": [
+      "designate",
+      "assemble",
+      "undertake",
+      "compromise"
+    ],
+    "answer": "designate",
+    "type": "select",
+    "comment": {
+      "designate": "指定する",
+      "assemble": "組み立てる",
+      "undertake": "引き受ける",
+      "compromise": "妥協する"
+    }
+  },
+  {
+    "title": "",
+    "question": "As soon as they heard police sirens, the thieves ___ into the woods to avoid being caught.",
+    "hint": "警察のサイレンを聞くとすぐに、泥棒たちは捕まらないよう森へ○○した。",
+    "choices": [
+      "took off",
+      "missed out",
+      "wore out",
+      "passed over"
+    ],
+    "answer": "took off",
+    "type": "select",
+    "comment": {
+      "took off": "逃げ去る",
+      "missed out": "逃した",
+      "wore out": "疲れ果てた",
+      "passed over": "見送った"
+    }
+  },
+  {
+    "title": "",
+    "question": "The Nelsons tried to sell their house earlier this year, but few people were interested in buying it. They have decided to ___ until the market improves.",
+    "hint": "ネルソン一家は今年初めに家を売ろうとしたが買い手が少なかったため、市場が良くなるまで○○することにした。",
+    "choices": [
+      "turn over",
+      "ring in",
+      "hold off",
+      "rain down"
+    ],
+    "answer": "hold off",
+    "type": "select",
+    "comment": {
+      "turn over": "ひっくり返す",
+      "ring in": "迎える",
+      "hold off": "延期する",
+      "rain down": "降り注ぐ"
+    }
+  },
+  {
+    "title": "",
+    "question": "Emergency services were having difficulty getting to the scene of the accident, so the police ___ traffic to another road to make space for ambulances and fire trucks.",
+    "hint": "救急車や消防車が通れるように、警察は交通を別の道路へ○○した。",
+    "choices": [
+      "infected",
+      "recited",
+      "galloped",
+      "diverted"
+    ],
+    "answer": "diverted",
+    "type": "select",
+    "comment": {
+      "infected": "感染させた",
+      "recited": "暗唱した",
+      "galloped": "疾走した",
+      "diverted": "迂回させた"
+    }
+  },
+  {
+    "title": "",
+    "question": "The teacher suddenly lost his temper and shouted at the class to be quiet. Following his ___, all the students in the classroom went silent.",
+    "hint": "教師が突然怒鳴った○○のあと、教室の生徒たちは皆静かになった。",
+    "choices": [
+      "intake",
+      "outburst",
+      "breakup",
+      "layout"
+    ],
+    "answer": "outburst",
+    "type": "select",
+    "comment": {
+      "intake": "吸入",
+      "outburst": "激怒",
+      "breakup": "解散",
+      "layout": "配置"
+    }
+  },
+  {
+    "title": "",
+    "question": "That's odd. She usually gives such ___ replies.",
+    "hint": "それは変だ。彼女は普段、とても○○な返事をするのに。",
+    "choices": [
+      "slender",
+      "gloomy",
+      "abnormal",
+      "prompt"
+    ],
+    "answer": "prompt",
+    "type": "select",
+    "comment": {
+      "slender": "細い",
+      "gloomy": "陰気な",
+      "abnormal": "異常な",
+      "prompt": "迅速な"
+    }
+  },
+  {
+    "title": "",
+    "question": "Researchers at the drug company have improved the ___ of their headache medicine.",
+    "hint": "その製薬会社の研究者たちは、頭痛薬の○○を向上させた。",
+    "choices": [
+      "excursion",
+      "potency",
+      "friction",
+      "negligence"
+    ],
+    "answer": "potency",
+    "type": "select",
+    "comment": {
+      "excursion": "遠足",
+      "potency": "効力",
+      "friction": "摩擦",
+      "negligence": "怠慢"
+    }
+  },
+  {
+    "title": "",
+    "question": "Using a smartphone while driving is now illegal in many places because it ___ drivers, who should always be watching the road.",
+    "hint": "運転中のスマートフォン使用は、運転手の注意を○○するため、多くの場所で違法となっている。",
+    "choices": [
+      "distracts",
+      "reforms",
+      "pacifies",
+      "dismisses"
+    ],
+    "answer": "distracts",
+    "type": "select",
+    "comment": {
+      "distracts": "注意をそらす",
+      "reforms": "改革する",
+      "pacifies": "鎮める",
+      "dismisses": "却下する"
+    }
+  },
+  {
+    "title": "",
+    "question": "In an effort to reduce government spending, the government has ___ the post office by allowing a for-profit corporation to take it over.",
+    "hint": "政府は支出削減のため、郵便局を○○した。",
+    "choices": [
+      "formulated",
+      "privatized",
+      "ventilated",
+      "deformed"
+    ],
+    "answer": "privatized",
+    "type": "select",
+    "comment": {
+      "formulated": "策定した",
+      "privatized": "民営化した",
+      "ventilated": "換気した",
+      "deformed": "変形させた"
+    }
+  },
+  {
+    "title": "",
+    "question": "Most of the topics discussed in the weekly meeting are ___ to his section.",
+    "hint": "毎週の会議で話される話題のほとんどは、彼の部署とは○○だ。",
+    "choices": [
+      "occupied",
+      "invisible",
+      "irrelevant",
+      "anxious"
+    ],
+    "answer": "irrelevant",
+    "type": "select",
+    "comment": {
+      "occupied": "占領された",
+      "invisible": "見えない",
+      "irrelevant": "無関係な",
+      "anxious": "不安な"
+    }
+  },
+  {
+    "title": "",
+    "question": "After a storm, flooding can make roads ___.",
+    "hint": "嵐の後の洪水によって、道路は○○になることがある。",
+    "choices": [
+      "hazardous",
+      "vigorous",
+      "furious",
+      "monotonous"
+    ],
+    "answer": "hazardous",
+    "type": "select",
+    "comment": {
+      "hazardous": "危険な",
+      "vigorous": "活発な",
+      "furious": "激怒した",
+      "monotonous": "単調な"
+    }
+  },
+  {
+    "title": "",
+    "question": "Although the company faced strong competition, its innovative products gave it a ___ advantage in the market.",
+    "hint": "その会社は激しい競争に直面していたが、革新的な製品が市場で○○な優位性を与えた。",
+    "choices": [
+      "barren",
+      "spacious",
+      "temporary",
+      "distinct"
+    ],
+    "answer": "distinct",
+    "type": "select",
+    "comment": {
+      "barren": "不毛な",
+      "spacious": "広々とした",
+      "temporary": "一時的な",
+      "distinct": "明確な"
+    }
+  },
+  {
+    "title": "",
+    "question": "To ensure the safety of all passengers, the airline has implemented ___ security measures at all airports.",
+    "hint": "すべての乗客の安全を確保するため、その航空会社は○○な警備対策を実施している。",
+    "choices": [
+      "supreme",
+      "edible",
+      "marine",
+      "ongoing"
+    ],
+    "answer": "ongoing",
+    "type": "select",
+    "comment": {
+      "supreme": "最高の",
+      "edible": "食用の",
+      "marine": "海の",
+      "ongoing": "進行中の"
+    }
+  },
+  {
+    "title": "",
+    "question": "The museum curator asked the visitors to not ___ the ancient artifacts on display to preserve them for future generations.",
+    "hint": "博物館の学芸員は、展示されている古代の遺物を将来の世代のために○○しないよう来館者に求めた。",
+    "choices": [
+      "crawl",
+      "touch",
+      "magnify",
+      "sneeze"
+    ],
+    "answer": "touch",
+    "type": "select",
+    "comment": {
+      "crawl": "這う",
+      "touch": "触る",
+      "magnify": "拡大する",
+      "sneeze": "くしゃみをする"
+    }
+  },
+  {
+    "title": "",
+    "question": "The experienced detective had a strong ___ that the witness was not telling the whole truth about the incident.",
+    "hint": "その経験豊富な刑事は、目撃者が事件についてすべてを語っていないという強い○○を抱いていた。",
+    "choices": [
+      "routine",
+      "suspicion",
+      "outcome",
+      "reference"
+    ],
+    "answer": "suspicion",
+    "type": "select",
+    "comment": {
+      "routine": "日常業務",
+      "suspicion": "疑い",
+      "outcome": "結果",
+      "reference": "参照"
+    }
+  },
+  {
+    "title": "",
+    "question": "The government implemented a series of ___ reforms to address the widespread corruption within the public sector.",
+    "hint": "政府は公共部門に蔓延する腐敗に対処するため、○○な改革を実施した。",
+    "choices": [
+      "ethical",
+      "reasonable",
+      "drastic",
+      "fragile"
+    ],
+    "answer": "drastic",
+    "type": "select",
+    "comment": {
+      "ethical": "倫理的な",
+      "reasonable": "合理的な",
+      "drastic": "抜本的な",
+      "fragile": "壊れやすい"
+    }
+  },
+  {
+    "title": "",
+    "question": "The sudden increase in the price of oil caused ___ across the country, leading to protests and demands for government intervention.",
+    "hint": "石油価格の急騰は全国的な○○を引き起こし、抗議活動や政府介入の要求につながった。",
+    "choices": [
+      "turmoil",
+      "prosperity",
+      "heritage",
+      "hospitality"
+    ],
+    "answer": "turmoil",
+    "type": "select",
+    "comment": {
+      "turmoil": "混乱",
+      "prosperity": "繁栄",
+      "heritage": "遺産",
+      "hospitality": "もてなし"
+    }
+  },
+  {
+    "title": "",
+    "question": "After years of hard work and dedication, the scientist celebrated her ___ with colleagues and family.",
+    "hint": "長年の努力と献身の末、その科学者は○○を同僚や家族と祝った。",
+    "choices": [
+      "triumph",
+      "junk",
+      "landmark",
+      "valley"
+    ],
+    "answer": "triumph",
+    "type": "select",
+    "comment": {
+      "triumph": "勝利",
+      "junk": "がらくた",
+      "landmark": "画期的な出来事",
+      "valley": "谷"
+    }
+  },
+  {
+    "title": "",
+    "question": "A: Could you please ___ my apologies to Mr. Smith for missing our appointment?",
+    "hint": "A: 約束を逃したことについて、私の謝罪をスミス氏に○○していただけますか？",
+    "choices": [
+      "modify",
+      "detect",
+      "convey",
+      "endorse"
+    ],
+    "answer": "convey",
+    "type": "select",
+    "comment": {
+      "modify": "修正する",
+      "detect": "発見する",
+      "convey": "伝える",
+      "endorse": "支持する"
+    }
+  },
+  {
+    "title": "",
+    "question": "A: What is that unpleasant ___ coming from the kitchen?",
+    "hint": "A: 台所からしてくるあの不快な○○は何？",
+    "choices": [
+      "landscape",
+      "odor",
+      "wealth",
+      "boundary"
+    ],
+    "answer": "odor",
+    "type": "select",
+    "comment": {
+      "landscape": "風景",
+      "odor": "におい",
+      "wealth": "富",
+      "boundary": "境界"
+    }
+  },
+  {
+    "title": "",
+    "question": "The city center was ___ decorated with colorful lights and banners for the annual festival.",
+    "hint": "市の中心部は、年に一度の祭りのために色とりどりの照明や旗で○○に飾られていた。",
+    "choices": [
+      "virtually",
+      "unfairly",
+      "roughly",
+      "densely"
+    ],
+    "answer": "densely",
+    "type": "select",
+    "comment": {
+      "virtually": "事実上",
+      "unfairly": "不公平に",
+      "roughly": "大まかに",
+      "densely": "密集して"
+    }
+  },
+  {
+    "title": "",
+    "question": "The chef created a ___ dish that combined traditional Japanese ingredients with French cooking techniques.",
+    "hint": "そのシェフは、日本の伝統的な食材とフランス料理の技法を組み合わせた○○な料理を作った。",
+    "choices": [
+      "spacious",
+      "relevant",
+      "bizarre",
+      "temporary"
+    ],
+    "answer": "bizarre",
+    "type": "select",
+    "comment": {
+      "spacious": "広々とした",
+      "relevant": "関連のある",
+      "bizarre": "奇妙な",
+      "temporary": "一時的な"
+    }
+  },
+  {
+    "title": "",
+    "question": "The sailor carefully tied a secure ___ to fasten the boat to the pier.",
+    "hint": "船員は船を桟橋につなぐため、しっかりとした○○を結んだ。",
+    "choices": [
+      "nerve",
+      "knot",
+      "tissue",
+      "germ"
+    ],
+    "answer": "knot",
+    "type": "select",
+    "comment": {
+      "nerve": "神経",
+      "knot": "結び目",
+      "tissue": "組織",
+      "germ": "細菌"
+    }
+  },
+  {
+    "title": "",
+    "question": "There was a ___ silence in the courtroom as the judge read out the verdict.",
+    "hint": "裁判官が判決を読み上げる間、法廷には○○とした沈黙が流れた。",
+    "choices": [
+      "stunned",
+      "edible",
+      "moral",
+      "nuclear"
+    ],
+    "answer": "stunned",
+    "type": "select",
+    "comment": {
+      "stunned": "呆然とした",
+      "edible": "食用の",
+      "moral": "道徳的な",
+      "nuclear": "核の"
+    }
+  },
+  {
+    "title": "",
+    "question": "In order to explore the narrow passage, the spelunker had to ___ on his stomach through the tight space.",
+    "hint": "狭い通路を調査するため、その洞窟探検家は腹ばいになって○○しなければならなかった。",
+    "choices": [
+      "hover",
+      "stroll",
+      "crawl",
+      "soar"
+    ],
+    "answer": "crawl",
+    "type": "select",
+    "comment": {
+      "hover": "浮かぶ",
+      "stroll": "散歩する",
+      "crawl": "這う",
+      "soar": "急上昇する"
+    }
+  },
+  {
+    "title": "",
+    "question": "A: I can’t believe they decided to ___ the old library.",
+    "hint": "A: 彼らがその古い図書館を○○することに決めたなんて信じられない。",
+    "choices": [
+      "break into",
+      "look up",
+      "hand over",
+      "tear down"
+    ],
+    "answer": "tear down",
+    "type": "select",
+    "comment": {
+      "break into": "侵入する",
+      "look up": "調べる",
+      "hand over": "引き渡す",
+      "tear down": "取り壊す"
+    }
+  },
+  {
+    "title": "",
+    "question": "Many students find it challenging to ___ the high expectations of their parents and teachers.",
+    "hint": "多くの学生は、親や教師の高い期待に○○することが難しいと感じている。",
+    "choices": [
+      "look forward to",
+      "get along with",
+      "come down with",
+      "live up to"
+    ],
+    "answer": "live up to",
+    "type": "select",
+    "comment": {
+      "look forward to": "楽しみにする",
+      "get along with": "うまくやる",
+      "come down with": "病気にかかる",
+      "live up to": "期待に応える"
+    }
+  },
+  {
+    "title": "",
+    "question": "Despite the complexity of the mathematical problem, she was able to ___ it with relative ease.",
+    "hint": "その数学の問題は複雑だったが、彼女は比較的簡単に○○することができた。",
+    "choices": [
+      "figure out",
+      "run into",
+      "drop off",
+      "go over"
+    ],
+    "answer": "figure out",
+    "type": "select",
+    "comment": {
+      "figure out": "理解する",
+      "run into": "偶然出会う",
+      "drop off": "降ろす",
+      "go over": "見直す"
+    }
+  },
+  {
+    "title": "",
+    "question": "The comedian used witty jokes and engaging stories to ___ the audience at the beginning of his performance.",
+    "hint": "そのコメディアンは、機知に富んだ冗談や話で、公演の冒頭に観客の心を○○した。",
+    "choices": [
+      "win over",
+      "put off",
+      "take back",
+      "use up"
+    ],
+    "answer": "win over",
+    "type": "select",
+    "comment": {
+      "win over": "味方につける",
+      "put off": "延期する",
+      "take back": "取り消す",
+      "use up": "使い果たす"
+    }
+  }
+]
