@@ -38,22 +38,25 @@ CLI（ターミナル / コマンドプロンプト）
 
 #### iOS での使い方
 1. App Store から「a-Shell」をインストール。
-2. 設定（Settings）で以下が有効になっていることを確認
-   ✅ Python
-   ✅ Git
+2. a-Shellにはデフォルトでgitコマンドがサポートされていないので、以下の方法で追加：
+```bash
+mkdir ~/Documents/bin
+cd ~/Documents/bin
+curl -L https://github.com/holzschu/a-Shell-commands/releases/download/0.1/git -o ~/Documents/bin/git
+```
 3. a-Shell のターミナルで以下を実行：
 ```bash
-git clone --filter=blob:none --sparse https://github.com/USER/REPO.git
-cd REPO
+git clone --filter=blob:none --sparse https://github.com/Ryota12348/English-learning.git
+cd English-learning
 git sparse-checkout set a-shell
 ```
 
 成功すると、次のような構成になります：
 
 ```pgsql
-REPO/
+English-learning/
 └─ a-shell/
-   ├─ python.py
+   ├─ english-quiz-a-shell.py
    └─ data/
 ```
 
@@ -61,7 +64,6 @@ REPO/
 ```bash
 cd a-shell
 ```
-
 確認：
 ```bash
 ls
@@ -96,7 +98,7 @@ cd ~/Documents/english_quiz
 ```
 7. 実行する
 ```bash
-python3 python.py
+python3 english-quiz-a-shell.py
 ```
 ジャンル選択メニューが表示されれば成功です 🎉
 
