@@ -19,8 +19,10 @@ class Color:
 # =========================
 # パス設定
 # =========================
-BASE_DIR = Path(r"C:\Users\user\Desktop\a-Shall\eiken\eiken")
-DATA_DIR = BASE_DIR / "data"
+import os
+
+BASE_DIR = os.path.expanduser("~/Documents/english_quiz")
+DATA_DIR = Path(BASE_DIR) / "data"
 
 # =========================
 # JSON 読み込み
@@ -127,6 +129,7 @@ def main():
         genres = {
             "英検 準1級": DATA_DIR / "eiken" / "pre1",
             "英検 2級": DATA_DIR / "eiken" / "grade2",
+            "英検 準2級": DATA_DIR / "eiken" / "pre2",
             "入試問題": DATA_DIR / "exam",
             "ワーク復習": DATA_DIR / "workbook"
         }

@@ -11,6 +11,7 @@
 - 学習ジャンルを選択可能
    - 英検 準1級
    - 英検 2級
+   - 英検 準2級
    - 入試問題
    - ワーク復習 など
 - 問題形式を選択可能
@@ -35,6 +36,70 @@ CLI（ターミナル / コマンドプロンプト）
 ※ Windows / macOS / Linux いずれも使用可能
 （ANSIカラー対応端末推奨）
 
+#### iOS での使い方
+1. App Store から「a-Shell」をインストール。
+2. 設定（Settings）で以下が有効になっていることを確認
+   ✅ Python
+   ✅ Git
+3. a-Shell のターミナルで以下を実行：
+```bash
+git clone --filter=blob:none --sparse https://github.com/USER/REPO.git
+cd REPO
+git sparse-checkout set a-shell
+```
+
+成功すると、次のような構成になります：
+
+```pgsql
+REPO/
+└─ a-shell/
+   ├─ python.py
+   └─ data/
+```
+
+4. 実行用ディレクトリに移動
+```bash
+cd a-shell
+```
+
+確認：
+```bash
+ls
+```
+
+以下が表示されればOK：
+```bash
+python.py
+data
+```
+5. Python の動作確認
+   
+```pash
+python3 --version
+```
+
+※ python が使えない場合は 必ず python3 を使用してください。
+
+6. プロジェクトの配置を確認（重要）
+
+このプログラムは以下の場所で動作するように設計されています：
+```pgsql
+~/Documents/english_quiz/
+├─ python.py
+└─ data/
+```
+
+もし clone したフォルダ名が違う場合は、以下のように移動してください：
+```bash
+mv a-shell ~/Documents/english_quiz
+cd ~/Documents/english_quiz
+```
+7. 実行する
+```bash
+python3 python.py
+```
+ジャンル選択メニューが表示されれば成功です 🎉
+
 
 ## ファイル構造
 
@@ -57,3 +122,5 @@ data/
 
 ```
 
+## 注意事項
+問題データは、試験の種類、レベル、問題形式に基づいた階層的なディレクトリ構造で管理されます。 新しい問題を追加するには、適切なディレクトリにJSONファイルを置くだけで済みます。コードを変更する必要はありません。
