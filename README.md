@@ -36,7 +36,7 @@ CLI（ターミナル / コマンドプロンプト）
 ※ Windows / macOS / Linux いずれも使用可能
 （ANSIカラー対応端末推奨）
 
-#### iOS での使い方
+## iOS での使い方
 1. App Store から「a-Shell」をインストール。
 2. a-Shellにはデフォルトでgitコマンドがサポートされていないので、以下の方法で追加：
 ```bash
@@ -100,7 +100,7 @@ cd ~/Documents/english_quiz
 ```bash
 python3 english-quiz-a-shell.py
 ```
-ジャンル選択メニューが表示されれば成功です 🎉
+ジャンル選択メニューが表示されれば成功です 
 
 
 ## ファイル構造

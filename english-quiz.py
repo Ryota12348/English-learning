@@ -210,7 +210,7 @@ def main():
         # 続行 or 終了
         # =========================
         if not continue_menu():
-            print("\nGood job! See you next time 👋")
+            print("\nGood job! See you next time 👋\n")
             break
 
 
