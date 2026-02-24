@@ -21,7 +21,7 @@ class Color:
 # =========================
 import os
 
-BASE_DIR = os.path.expanduser("~/Documents/english_quiz")
+BASE_DIR = os.path.expanduser("~/Documents/English-learning.git")
 DATA_DIR = Path(BASE_DIR) / "data"
 
 # =========================
@@ -67,12 +67,12 @@ def ask_select(q: dict, q_num: int):
 
     for i, c in enumerate(choices, 1):
         print(f"{i}: {c}", end="   ")
-    print("\n\n(show hint: h)\n")
+    print("\n\n(show hint: 0)\n")
 
     while True:
         raw = input("Enter number: ").strip()
 
-        if raw.lower() == "h":
+        if raw == "0":
             if hint:
                 print(f"{Color.BLUE}\nHint: {hint}\n{Color.RESET}")
                 hint_shown = True
@@ -137,16 +137,6 @@ def main():
         g_idx = select_menu("Genre", list(genres.keys()))
         genre_name = list(genres.keys())[g_idx]
         genre_dir = list(genres.values())[g_idx]
-
-        # =========================
-        # 問題形式
-        # =========================
-        types = ["選択肢", "並べ替え（未実装）", "英作文（未実装）"]
-        t_idx = select_menu("Question Type", types)
-
-        if t_idx != 0:
-            print(f"{Color.RED}This mode is not implemented yet.{Color.RESET}")
-            continue
 
         # =========================
         # 問題数（直接入力）

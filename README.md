@@ -46,9 +46,8 @@ curl -L https://github.com/holzschu/a-Shell-commands/releases/download/0.1/git -
 ```
 3. a-Shell のターミナルで以下を実行：
 ```bash
-git clone --filter=blob:none --sparse https://github.com/Ryota12348/English-learning.git
+git clone https://github.com/Ryota12348/English-learning.git
 cd English-learning
-git sparse-checkout set a-shell
 ```
 
 成功すると、次のような構成になります：
@@ -106,23 +105,73 @@ python3 english-quiz-a-shell.py
 ## ファイル構造
 
 ```pgsql
-python.py←実行
+english-quiz.py←実行
 data/
 ├─ eiken/
 │  ├─ pre1/
-│  │  ├─ choice.json
-│  │  ├─ reorder.json
-│  │  └─ writing.json
-│  └─ grade2/
-│     ├─ choice.json
-│     └─ reorder.json
+│  │  └─ choice.json        ← 英検 準1級
+│  ├─ grade2/
+│  │  └─ choice.json        ← 英検 2級
+│  └─ pre2/
+│     └─ choice.json        ← 英検 準2級
+│
 ├─ exam/
-│  ├─ choice.json
-│  └─ writing.json
+│  └─ choice.json           ← 入試問題
+│
 └─ workbook/
-   └─ review.json
+   └─ choice.json           ← ワーク復習
 
 ```
 
 ## 注意事項
 問題データは、試験の種類、レベル、問題形式に基づいた階層的なディレクトリ構造で管理されます。 新しい問題を追加するには、適切なディレクトリにJSONファイルを置くだけで済みます。コードを変更する必要はありません。
+
+
+
+## 問題作成用プロンプト
+
+```
+あなたは英語問題データ整形AIです。
+
+これから参考書をOCRしたテキストを入力します。
+内容を分析し、空欄補充型の4択問題に整形してください。
+
+【重要】
+・難易度や級の判断は不要
+・内容を改変しすぎない
+・元テキストの語彙・文を最大限活かす
+・出力はJSON配列のみ
+・説明文は一切不要
+
+【出力形式】
+
+[
+  {
+    "title": "あれば大学名・試験名。なければ空文字",
+    "question": "空欄を含む英文",
+    "hint": "英文全体の日本語訳",
+    "choices": ["選択肢1", "選択肢2", "選択肢3", "選択肢4"],
+    "answer": "正解の選択肢と完全一致する文字列",
+    "type": "select",
+    "comment": {
+      "選択肢1": "日本語訳",
+      "選択肢2": "日本語訳",
+      "選択肢3": "日本語訳",
+      "選択肢4": "日本語訳"
+    }
+  }
+]
+
+【ルール】
+
+・choicesは必ず4つ
+・answerはchoicesと完全一致
+・commentのキーもchoicesと完全一致
+・空欄は ____ とする
+・明らかなOCR誤認は自然に修正してよい
+・意味が成立しない部分は文脈から補正してよい
+・問題数は、入力テキストから作れるだけ作る
+・JSONのみ出力
+
+これからOCRテキストを入力します。
+```

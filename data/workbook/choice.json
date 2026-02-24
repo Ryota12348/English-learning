@@ -1,0 +1,154 @@
+[
+  {
+    "title": "名古屋工業大",
+    "question": "He ____ at the hotel tomorrow morning.",
+    "hint": "彼は明日の朝、そのホテルに到着する予定です。",
+    "choices": [
+      "will be arrived",
+      "is arriving",
+      "must have been arrived",
+      "is used to arriving"
+    ],
+    "answer": "is arriving",
+    "type": "select",
+    "comment": {
+      "will be arrived": "到着されるだろう（誤り）",
+      "is arriving": "到着する予定である",
+      "must have been arrived": "すでに到着していたに違いない（誤り）",
+      "is used to arriving": "到着することに慣れている"
+    }
+  },
+  {
+    "title": "南山大",
+    "question": "Bill, don't forget that the letter to Joe must ____ by tomorrow morning.",
+    "hint": "ビル、ジョーへの手紙は明日の朝までに出されなければならないことを忘れないで。",
+    "choices": [
+      "mailed",
+      "be mailed",
+      "have mailed",
+      "have been mailed"
+    ],
+    "answer": "be mailed",
+    "type": "select",
+    "comment": {
+      "mailed": "郵送された（受動の形にならない）",
+      "be mailed": "郵送されなければならない",
+      "have mailed": "郵送してしまった（能動）",
+      "have been mailed": "すでに郵送されている"
+    }
+  },
+  {
+    "title": "法政大",
+    "question": "A: Can you guess how old that temple is?\nB: More than 3,000 years old.\nA: That ____ be right! It looks so new to me.",
+    "hint": "A: あの寺は何歳くらいだと思う？ B: 3000年以上だよ。 A: そんなはずがない！私にはとても新しく見える。",
+    "choices": [
+      "can't",
+      "would",
+      "could",
+      "needn't"
+    ],
+    "answer": "can't",
+    "type": "select",
+    "comment": {
+      "can't": "〜のはずがない",
+      "would": "〜だろう（仮定的）",
+      "could": "〜かもしれない",
+      "needn't": "〜する必要はない"
+    }
+  },
+  {
+    "title": "山梨大",
+    "question": "She earns ____ I do.",
+    "hint": "彼女は私の3倍稼いでいる。",
+    "choices": [
+      "as much three times",
+      "as three times much as",
+      "as much as three times",
+      "three times as much as"
+    ],
+    "answer": "three times as much as",
+    "type": "select",
+    "comment": {
+      "as much three times": "語順が誤り",
+      "as three times much as": "語順が誤り",
+      "as much as three times": "3倍もの〜（不自然）",
+      "three times as much as": "〜の3倍の量"
+    }
+  },
+  {
+    "title": "摂南大",
+    "question": "He was so tired that he ____ in bed all day yesterday.",
+    "hint": "彼はとても疲れていたので、昨日は一日中ベッドに横になっていた。",
+    "choices": [
+      "lay",
+      "lain",
+      "lied",
+      "laid"
+    ],
+    "answer": "lay",
+    "type": "select",
+    "comment": {
+      "lay": "横になった（lie の過去形）",
+      "lain": "横になった（過去分詞）",
+      "lied": "うそをついた",
+      "laid": "横たえた（lay の過去形）"
+    }
+  },
+  {
+    "title": "駒沢大",
+    "question": "The student is likely to put things off and barely ____ the deadline for his assignments.",
+    "hint": "その学生は物事を先延ばしにしがちで、課題の締め切りにかろうじて間に合う。",
+    "choices": [
+      "take",
+      "arrive",
+      "afford",
+      "meet"
+    ],
+    "answer": "meet",
+    "type": "select",
+    "comment": {
+      "take": "取る",
+      "arrive": "到着する",
+      "afford": "余裕がある",
+      "meet": "（締め切りに）間に合う"
+    }
+  },
+  {
+    "title": "東洋英和女学院大",
+    "question": "Laughter suddenly ____ among the audience when the lecturer made a joke about the Prime Minister.",
+    "hint": "講師が首相について冗談を言ったとき、聴衆の間に突然笑いが起こった。",
+    "choices": [
+      "broke out",
+      "held on",
+      "pushed up",
+      "worked away"
+    ],
+    "answer": "broke out",
+    "type": "select",
+    "comment": {
+      "broke out": "突然起こった",
+      "held on": "持ちこたえた",
+      "pushed up": "押し上げた",
+      "worked away": "せっせと働いた"
+    }
+  },
+  {
+    "title": "立命館大",
+    "question": "When the president of the university arrived to do volunteer work, everyone else ____.",
+    "hint": "学長がボランティア活動をしに到着したとき、他のみんなはすでに始めていた。",
+    "choices": [
+      "already started",
+      "had already started",
+      "has started already",
+      "will have started already"
+    ],
+    "answer": "had already started",
+    "type": "select",
+    "comment": {
+      "already started": "すでに始めた（時制不一致）",
+      "had already started": "すでに始めていた",
+      "has started already": "すでに始めている（時制不一致）",
+      "will have started already": "すでに始めているだろう"
+    }
+  }
+]
