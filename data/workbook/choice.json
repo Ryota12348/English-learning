@@ -1,6 +1,6 @@
 [
   {
-    "title": "名古屋工業大",
+    "title": "New No.1 1 名古屋工業大",
     "question": "He ____ at the hotel tomorrow morning.",
     "hint": "彼は明日の朝、そのホテルに到着する予定です。",
     "choices": [
@@ -149,6 +149,177 @@
       "had already started": "すでに始めていた",
       "has started already": "すでに始めている（時制不一致）",
       "will have started already": "すでに始めているだろう"
+    }
+  },
+  {
+    "title": "No.2 1 南山大",
+    "question": "So ____ to make sure that everyone arrives on time for today's meeting, John called everybody again last night.",
+    "hint": "だから、今日の会議に全員が時間通りに到着することを確実にするために、ジョンは昨夜もう一度みんなに電話した。",
+    "choices": [
+      "at",
+      "for",
+      "by",
+      "as"
+    ],
+    "answer": "as",
+    "type": "select",
+    "comment": {
+      "at": "〜で（前置詞）",
+      "for": "〜のために（目的）",
+      "by": "〜によって",
+      "as": "〜なので、〜だから"
+    }
+  },
+  {
+    "title": "高知大",
+    "question": "I am proud of my son ____ first prize in the speech contest.",
+    "hint": "私は息子がスピーチコンテストで一等賞を取ったことを誇りに思っている。",
+    "choices": [
+      "having won",
+      "to have won",
+      "to win",
+      "won"
+    ],
+    "answer": "having won",
+    "type": "select",
+    "comment": {
+      "having won": "勝ったこと（完了の動名詞）",
+      "to have won": "勝ったこと（不定詞完了）",
+      "to win": "勝つこと",
+      "won": "勝った（過去形）"
+    }
+  },
+  {
+    "title": "大阪経済大",
+    "question": "Ken's been sitting by the phone all day ____ for her to call.",
+    "hint": "ケンは彼女から電話がかかってくるのを待って一日中電話のそばに座っている。",
+    "choices": [
+      "wait",
+      "waited",
+      "waiting",
+      "have waited"
+    ],
+    "answer": "waiting",
+    "type": "select",
+    "comment": {
+      "wait": "待つ（原形）",
+      "waited": "待った",
+      "waiting": "待ちながら、待っていて",
+      "have waited": "待ってきた"
+    }
+  },
+  {
+    "title": "北海学園大",
+    "question": "X: Why has the meeting been put off?\nY: Because the meeting room ____ needs to be used for another, more important meeting.",
+    "hint": "X: なぜ会議は延期されたの？ Y: その会議室は私たちが予約したもので、別のより重要な会議に使う必要があるからだ。",
+    "choices": [
+      "which reserved",
+      "which has reserved",
+      "who reserved it",
+      "which we reserved"
+    ],
+    "answer": "which we reserved",
+    "type": "select",
+    "comment": {
+      "which reserved": "関係詞の中の主語が不足",
+      "which has reserved": "文法的に不自然",
+      "who reserved it": "先行詞がmeeting roomなので不適切",
+      "which we reserved": "私たちが予約したその会議室"
+    }
+  },
+  {
+    "title": "東北学院大",
+    "question": "The research that Professor Tanaka is conducting will require ____ of time, money and energy.",
+    "hint": "田中教授が行っている研究は、多くの時間、お金、そしてエネルギーを必要とするだろう。",
+    "choices": [
+      "a large amount",
+      "a large extent",
+      "a large area",
+      "a large number"
+    ],
+    "answer": "a large amount",
+    "type": "select",
+    "comment": {
+      "a large amount": "多量の（不可算名詞に使う）",
+      "a large extent": "大きな程度",
+      "a large area": "広い地域",
+      "a large number": "多数の（可算名詞に使う）"
+    }
+  },
+  {
+    "title": "東北学院大",
+    "question": "The cat was ____ run over by a car.",
+    "hint": "その猫は危うく車にひかれるところだった。",
+    "choices": [
+      "almost",
+      "dangerously",
+      "less than",
+      "mostly"
+    ],
+    "answer": "almost",
+    "type": "select",
+    "comment": {
+      "almost": "ほとんど、危うく",
+      "dangerously": "危険なほどに",
+      "less than": "〜未満",
+      "mostly": "主に"
+    }
+  },
+  {
+    "title": "関西学院大",
+    "question": "I've got to pay the money back ____ the end of the month.",
+    "hint": "私は月末までにそのお金を返さなければならない。",
+    "choices": [
+      "by",
+      "on",
+      "over",
+      "till"
+    ],
+    "answer": "by",
+    "type": "select",
+    "comment": {
+      "by": "〜までに（期限）",
+      "on": "〜に（特定の日）",
+      "over": "〜の間ずっと",
+      "till": "〜まで（継続）"
+    }
+  },
+  {
+    "title": "中央大",
+    "question": "Jack said he broke the window by accident, but I think he did it ____.",
+    "hint": "ジャックは誤って窓を割ったと言ったが、私は彼が故意にやったのだと思う。",
+    "choices": [
+      "intentionally",
+      "rapidly",
+      "carelessly",
+      "noisily"
+    ],
+    "answer": "intentionally",
+    "type": "select",
+    "comment": {
+      "intentionally": "故意に",
+      "rapidly": "急速に",
+      "carelessly": "不注意に",
+      "noisily": "騒がしく"
+    }
+  },
+  {
+    "title": "阪南大",
+    "question": "All things ____, we had a very productive discussion over lunch.",
+    "hint": "すべてを考慮すると、私たちは昼食をとりながら非常に生産的な議論をした。",
+    "choices": [
+      "considered",
+      "are considering",
+      "are considered",
+      "considerable"
+    ],
+    "answer": "considered",
+    "type": "select",
+    "comment": {
+      "considered": "考慮されて（分詞構文）",
+      "are considering": "考慮している",
+      "are considered": "考慮されている",
+      "considerable": "かなりの"
     }
   }
 ]
