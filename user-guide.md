@@ -1,11 +1,11 @@
 
-## 使い方（はじめての人向け）
+# 使い方（はじめての人向け）
 
 このツールは「ターミナル」という黒い画面で動きます。
 難しそうに見えますが、やることは順番どおりにコマンドを入力するだけです。
 以下のコードはそのままコピペして使えます。
 
-### 🔰 まずは準備
+## 🔰 まずは準備
 
 **① Python が入っているか確認**
 
@@ -20,7 +20,7 @@ python3 --version
 エラーが出る場合は、Python 3.9 以上をインストールしてください。
 
 
-### 📱 iPhone / iPad（a-Shell）の場合
+## 📱 iPhone / iPad（a-Shell）の場合
 
 **① a-Shell をインストール**
 
@@ -28,7 +28,7 @@ python3 --version
 App Store から a-Shell をインストールします。
 
 
-**② git を追加（最初だけ必要）**
+### ② git を追加（最初だけ必要）
 
 
 a-Shell には git が入っていないので、次を順番に入力します。
@@ -49,7 +49,7 @@ curl -L https://github.com/holzschu/a-Shell-commands/releases/download/0.1/git -
 chmod +x git
 ```
 
-**③ このプロジェクトをダウンロード**
+### ③ このプロジェクトをダウンロード
 
 ```bash
 cd ~/Documents
@@ -68,7 +68,7 @@ git sparse-checkout set a-shell
 ```
   
 
-④ フォルダを移動（重要）
+### ④ フォルダを移動（重要）
 
 このプログラムは次の場所で動くように作られています：
 ```
@@ -77,7 +77,7 @@ git sparse-checkout set a-shell
 もし違う場所にある場合は、移動してください。
 
 
-⑤ 実行する
+### ⑤ 実行する
 
   
 ```
@@ -91,14 +91,10 @@ python3 english-quiz-a-shell.py
 ジャンル選択メニューが表示されれば成功です。
 
 
-  
-
-
-
 ## 💻 パソコン（Windows / Mac）の場合
 
   
-**① ターミナルを開く**
+### ① ターミナルを開く
 
 - Windows → コマンドプロンプト
 - Mac → ターミナル
@@ -115,14 +111,14 @@ cd English-learning.git
 ```
   
 
-**③ 実行**
+# ③ 実行
 
 ```
 cd a-shell
 ```
 
 ```
-python3 english-quiz-a-shell.py
+python3 english-quiz.py
 ```
   
 
