@@ -41,9 +41,6 @@ cd ~/Documents/bin
 curl -L https://github.com/holzschu/a-Shell-commands/releases/download/0.1/git -o git
 ```
 
-```bash
-chmod +x git
-```
 
 ### ③ このプロジェクトをダウンロード
 
@@ -58,11 +55,6 @@ git clone https://github.com/Ryota12348/English-learning.git
 ```bash
 cd English-learning.git
 ```
-
-```bash
-git sparse-checkout set a-shell
-```
-  
 
 ### ④ フォルダを移動（重要）
 
@@ -86,18 +78,15 @@ python3 english-quiz-a-shell.py
 
 ジャンル選択メニューが表示されれば成功です。
 
-
 ## 💻 パソコン（Windows / Mac）の場合
 
-  
 ### ① ターミナルを開く
 
 - Windows → コマンドプロンプト
 - Mac → ターミナル
 
-**② ダウンロード**
+### ② ダウンロード
 
-  
 ```bash
 git clone https://github.com/Ryota12348/English-learning.git
 ```
@@ -108,10 +97,6 @@ cd English-learning.git
   
 
 ### ③ 実行
-
-```
-cd a-shell
-```
 
 ```
 python3 english-quiz.py
