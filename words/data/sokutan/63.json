@@ -1,0 +1,296 @@
+[
+  {
+    "title": 1711,
+    "english": "confirm",
+    "japanese": "を立証する を確かめる",
+    "first_letter": "c",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1712,
+    "english": "severe",
+    "japanese": "過酷な 深刻な 厳格な",
+    "first_letter": "s",
+    "part_of_speech": "adjective"
+  },
+  {
+    "title": 1713,
+    "english": "tight",
+    "japanese": "厳しい きつい しっかり固定した",
+    "first_letter": "t",
+    "part_of_speech": "adjective"
+  },
+  {
+    "title": 1714,
+    "english": "firm",
+    "japanese": "断固とした",
+    "first_letter": "f",
+    "part_of_speech": "adjective"
+  },
+  {
+    "title": 1715,
+    "english": "bitter",
+    "japanese": "痛烈な つらい 苦い",
+    "first_letter": "b",
+    "part_of_speech": "adjective"
+  },
+  {
+    "title": 1716,
+    "english": "strict",
+    "japanese": "厳格な",
+    "first_letter": "s",
+    "part_of_speech": "adjective"
+  },
+  {
+    "title": 1717,
+    "english": "tough",
+    "japanese": "困難な 丈夫な 固い",
+    "first_letter": "t",
+    "part_of_speech": "adjective"
+  },
+  {
+    "title": 1718,
+    "english": "freeze",
+    "japanese": "凍る 動きを止める",
+    "first_letter": "f",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": "1718-2",
+    "english": "freeze",
+    "japanese": "を凍らせる",
+    "first_letter": "f",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1719,
+    "english": "air",
+    "japanese": "空気 空中 様子 気取り",
+    "first_letter": "a",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1720,
+    "english": "broadcast",
+    "japanese": "放送",
+    "first_letter": "b",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": "1720-2",
+    "english": "broadcast",
+    "japanese": "放送する",
+    "first_letter": "b",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1721,
+    "english": "experiment",
+    "japanese": "実験",
+    "first_letter": "e",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": "1721-2",
+    "english": "experiment",
+    "japanese": "実験する",
+    "first_letter": "e",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1722,
+    "english": "expect",
+    "japanese": "を予期する を期待する と思う",
+    "first_letter": "e",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1723,
+    "english": "sudden",
+    "japanese": "突然の",
+    "first_letter": "s",
+    "part_of_speech": "adjective"
+  },
+  {
+    "title": 1724,
+    "english": "anticipate",
+    "japanese": "を予想する",
+    "first_letter": "a",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1725,
+    "english": "contrary",
+    "japanese": "反対の",
+    "first_letter": "c",
+    "part_of_speech": "adjective"
+  },
+  {
+    "title": "1725-2",
+    "english": "contrary",
+    "japanese": "逆",
+    "first_letter": "c",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1726,
+    "english": "actually",
+    "japanese": "実は 実際に",
+    "first_letter": "a",
+    "part_of_speech": "adverb"
+  },
+  {
+    "title": 1727,
+    "english": "mystery",
+    "japanese": "不思議 神秘",
+    "first_letter": "m",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1728,
+    "english": "mysterious",
+    "japanese": "不思議な 神秘的な",
+    "first_letter": "m",
+    "part_of_speech": "adjective"
+  },
+  {
+    "title": 1729,
+    "english": "solve",
+    "japanese": "を解決する 問題 パズルに解答する",
+    "first_letter": "s",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1730,
+    "english": "phenomenon",
+    "japanese": "現象",
+    "first_letter": "p",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1731,
+    "english": "observe",
+    "japanese": "を観察する に気づく を述べる",
+    "first_letter": "o",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1732,
+    "english": "attention",
+    "japanese": "注目 注意 世話",
+    "first_letter": "a",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1733,
+    "english": "alert",
+    "japanese": "油断のない",
+    "first_letter": "a",
+    "part_of_speech": "adjective"
+  },
+  {
+    "title": "1733-2",
+    "english": "alert",
+    "japanese": "に注意を呼びかける",
+    "first_letter": "a",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1734,
+    "english": "awake",
+    "japanese": "目覚めて 気づいて",
+    "first_letter": "a",
+    "part_of_speech": "adjective"
+  },
+  {
+    "title": "1734-2",
+    "english": "awake",
+    "japanese": "目が覚める を起こす",
+    "first_letter": "a",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1735,
+    "english": "asleep",
+    "japanese": "眠って",
+    "first_letter": "a",
+    "part_of_speech": "adjective"
+  },
+  {
+    "title": 1736,
+    "english": "instruct",
+    "japanese": "に指示する に教える",
+    "first_letter": "i",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1737,
+    "english": "allow",
+    "japanese": "aがするのに任せる を許す を認める",
+    "first_letter": "a",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1738,
+    "english": "surprise",
+    "japanese": "驚き 驚かせること もの",
+    "first_letter": "s",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": "1738-2",
+    "english": "surprise",
+    "japanese": "驚かせる",
+    "first_letter": "s",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1739,
+    "english": "amaze",
+    "japanese": "とても驚かせる",
+    "first_letter": "a",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1740,
+    "english": "astonish",
+    "japanese": "をひどく驚かせる",
+    "first_letter": "a",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1741,
+    "english": "startle",
+    "japanese": "をびっくりさせる",
+    "first_letter": "s",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1742,
+    "english": "mistake",
+    "japanese": "間違える",
+    "first_letter": "m",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": "1742-2",
+    "english": "mistake",
+    "japanese": "誤り",
+    "first_letter": "m",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1743,
+    "english": "fault",
+    "japanese": "誤り 欠陥 欠点 責任",
+    "first_letter": "f",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1744,
+    "english": "error",
+    "japanese": "基準から外れた誤り",
+    "first_letter": "e",
+    "part_of_speech": "noun"
+  }
+]
