@@ -1,0 +1,212 @@
+[
+  {
+    "title": 1745,
+    "english": "convince",
+    "japanese": "確信させる 納得させる",
+    "first_letter": "c",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1746,
+    "english": "accidental",
+    "japanese": "偶然の",
+    "first_letter": "a",
+    "part_of_speech": "adjective"
+  },
+  {
+    "title": 1747,
+    "english": "traffic",
+    "japanese": "交通 交通量",
+    "first_letter": "t",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1748,
+    "english": "disaster",
+    "japanese": "大災害 災害",
+    "first_letter": "d",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1749,
+    "english": "insurance",
+    "japanese": "保険",
+    "first_letter": "i",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1750,
+    "english": "theory",
+    "japanese": "理論",
+    "first_letter": "t",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1751,
+    "english": "academy",
+    "japanese": "高等教育機関 専門学校",
+    "first_letter": "a",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1752,
+    "english": "fill",
+    "japanese": "満たす 占める",
+    "first_letter": "f",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1753,
+    "english": "occupy",
+    "japanese": "占める 占領する",
+    "first_letter": "o",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1754,
+    "english": "normal",
+    "japanese": "標準の 正常な",
+    "first_letter": "n",
+    "part_of_speech": "adjective"
+  },
+  {
+    "title": 1755,
+    "english": "standard",
+    "japanese": "標準の",
+    "first_letter": "s",
+    "part_of_speech": "adjective"
+  },
+  {
+    "title": 1756,
+    "english": "refrigerator",
+    "japanese": "冷蔵庫",
+    "first_letter": "r",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1757,
+    "english": "notice",
+    "japanese": "気づく",
+    "first_letter": "n",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": "1757-2",
+    "english": "notice",
+    "japanese": "注意",
+    "first_letter": "n",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1758,
+    "english": "overlook",
+    "japanese": "見落とす 大目に見る 見下ろす",
+    "first_letter": "o",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1759,
+    "english": "neither",
+    "japanese": "どちらもない人 物 どちらのもない",
+    "first_letter": "n",
+    "part_of_speech": "pronoun"
+  },
+  {
+    "title": 1760,
+    "english": "nor",
+    "japanese": "もまたない",
+    "first_letter": "n",
+    "part_of_speech": "conjunction"
+  },
+  {
+    "title": 1761,
+    "english": "occur",
+    "japanese": "起こる 突然浮かぶ",
+    "first_letter": "o",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1762,
+    "english": "incident",
+    "japanese": "出来事 事件",
+    "first_letter": "i",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1763,
+    "english": "strike",
+    "japanese": "心に浮かぶ ぶつかる 打撃 ストライキ",
+    "first_letter": "s",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": "1763-2",
+    "english": "strike",
+    "japanese": "打撃 ストライキ",
+    "first_letter": "s",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1764,
+    "english": "several",
+    "japanese": "いくつかの それぞれの いろいろな",
+    "first_letter": "s",
+    "part_of_speech": "adjective"
+  },
+  {
+    "title": 1765,
+    "english": "multiple",
+    "japanese": "多様な 倍数の 倍数",
+    "first_letter": "m",
+    "part_of_speech": "adjective"
+  },
+  {
+    "title": "1765-2",
+    "english": "multiple",
+    "japanese": "倍数",
+    "first_letter": "m",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1766,
+    "english": "fairly",
+    "japanese": "かなり 適切に 公平に",
+    "first_letter": "f",
+    "part_of_speech": "adverb"
+  },
+  {
+    "title": 1767,
+    "english": "steam",
+    "japanese": "蒸気",
+    "first_letter": "s",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1768,
+    "english": "disappear",
+    "japanese": "消える",
+    "first_letter": "d",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1769,
+    "english": "fade",
+    "japanese": "あせる 衰える",
+    "first_letter": "f",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1770,
+    "english": "vanish",
+    "japanese": "突然消える",
+    "first_letter": "v",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1771,
+    "english": "volume",
+    "japanese": "量 容積 音量 1冊",
+    "first_letter": "v",
+    "part_of_speech": "noun"
+  }
+]
