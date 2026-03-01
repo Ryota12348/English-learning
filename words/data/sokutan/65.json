@@ -1,0 +1,149 @@
+[
+  {
+    "title": 1772,
+    "english": "conduct",
+    "japanese": "調査などを行う を指揮する を案内する",
+    "first_letter": "c",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": "1772-2",
+    "english": "conduct",
+    "japanese": "行為 管理",
+    "first_letter": "c",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1773,
+    "english": "attribute",
+    "japanese": "をに帰する 特質",
+    "first_letter": "a",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": "1773-2",
+    "english": "attribute",
+    "japanese": "特質",
+    "first_letter": "a",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1774,
+    "english": "feature",
+    "japanese": "特徴 顔立ち 呼び物とする 重要な役割を果たす",
+    "first_letter": "f",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": "1774-2",
+    "english": "feature",
+    "japanese": "呼び物とする 重要な役割を果たす",
+    "first_letter": "f",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1775,
+    "english": "trait",
+    "japanese": "性格 習慣などの特色",
+    "first_letter": "t",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1776,
+    "english": "hydrogen",
+    "japanese": "水素",
+    "first_letter": "h",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1777,
+    "english": "oxygen",
+    "japanese": "酸素",
+    "first_letter": "o",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1778,
+    "english": "molecule",
+    "japanese": "分子",
+    "first_letter": "m",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1779,
+    "english": "atom",
+    "japanese": "原子",
+    "first_letter": "a",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1780,
+    "english": "particle",
+    "japanese": "粒子",
+    "first_letter": "p",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1781,
+    "english": "fragment",
+    "japanese": "破片 断片",
+    "first_letter": "f",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1782,
+    "english": "result",
+    "japanese": "終わる 結果として起こる",
+    "first_letter": "r",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": "1782-2",
+    "english": "result",
+    "japanese": "結果 効果 成績",
+    "first_letter": "r",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1783,
+    "english": "contain",
+    "japanese": "を含む を収容する",
+    "first_letter": "c",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1784,
+    "english": "accommodate",
+    "japanese": "収容する 宿泊させる",
+    "first_letter": "a",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1785,
+    "english": "condition",
+    "japanese": "条件 状況 状態",
+    "first_letter": "c",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1786,
+    "english": "none",
+    "japanese": "どれもない 誰もない",
+    "first_letter": "n",
+    "part_of_speech": "pronoun"
+  },
+  {
+    "title": 1787,
+    "english": "universal",
+    "japanese": "普遍的な 全世界の",
+    "first_letter": "u",
+    "part_of_speech": "adjective"
+  },
+  {
+    "title": 1788,
+    "english": "confuse",
+    "japanese": "当惑させる 混同する",
+    "first_letter": "c",
+    "part_of_speech": "verb"
+  }
+]
