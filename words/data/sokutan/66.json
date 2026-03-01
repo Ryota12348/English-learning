@@ -1,0 +1,226 @@
+[
+  {
+    "title": 1789,
+    "english": "dedicate",
+    "japanese": "研究 活動などにをささげる",
+    "first_letter": "d",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1790,
+    "english": "grade",
+    "japanese": "学年 程度 成績",
+    "first_letter": "g",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": "1790-2",
+    "english": "grade",
+    "japanese": "を段階別にする",
+    "first_letter": "g",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1791,
+    "english": "graduate",
+    "japanese": "卒業する",
+    "first_letter": "g",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": "1791-2",
+    "english": "graduate",
+    "japanese": "卒業生 大学院生",
+    "first_letter": "g",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1792,
+    "english": "undergraduate",
+    "japanese": "大学生",
+    "first_letter": "u",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1793,
+    "english": "paragraph",
+    "japanese": "段落",
+    "first_letter": "p",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1794,
+    "english": "type",
+    "japanese": "型 種類",
+    "first_letter": "t",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1795,
+    "english": "comprehend",
+    "japanese": "しっかりと理解する",
+    "first_letter": "c",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1796,
+    "english": "grasp",
+    "japanese": "把握する つかむ 理解すること",
+    "first_letter": "g",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": "1796-2",
+    "english": "grasp",
+    "japanese": "つかむこと 理解",
+    "first_letter": "g",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1797,
+    "english": "absorb",
+    "japanese": "理解する 吸収する 夢中にさせる",
+    "first_letter": "a",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1798,
+    "english": "elaborate",
+    "japanese": "詳しく述べる",
+    "first_letter": "e",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": "1798-2",
+    "english": "elaborate",
+    "japanese": "手の込んだ 複雑な",
+    "first_letter": "e",
+    "part_of_speech": "adjective"
+  },
+  {
+    "title": 1799,
+    "english": "material",
+    "japanese": "資料 原料 物質",
+    "first_letter": "m",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": "1799-2",
+    "english": "material",
+    "japanese": "物質の 肉体の",
+    "first_letter": "m",
+    "part_of_speech": "adjective"
+  },
+  {
+    "title": 1800,
+    "english": "component",
+    "japanese": "構成要素 成分",
+    "first_letter": "c",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1801,
+    "english": "ingredient",
+    "japanese": "材料 成分",
+    "first_letter": "i",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1802,
+    "english": "raw",
+    "japanese": "生の 加工されていない",
+    "first_letter": "r",
+    "part_of_speech": "adjective"
+  },
+  {
+    "title": 1803,
+    "english": "rubber",
+    "japanese": "ゴム",
+    "first_letter": "r",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1804,
+    "english": "plastic",
+    "japanese": "プラスチック ビニール",
+    "first_letter": "p",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": "1804-2",
+    "english": "plastic",
+    "japanese": "プラスチックの ビニールの",
+    "first_letter": "p",
+    "part_of_speech": "adjective"
+  },
+  {
+    "title": 1805,
+    "english": "discourage",
+    "japanese": "落胆させる 妨害する",
+    "first_letter": "d",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1806,
+    "english": "disappoint",
+    "japanese": "失望させる",
+    "first_letter": "d",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1807,
+    "english": "tempt",
+    "japanese": "誘惑する",
+    "first_letter": "t",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1808,
+    "english": "foundation",
+    "japanese": "基礎 設立",
+    "first_letter": "f",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1809,
+    "english": "establish",
+    "japanese": "設立する 確立する 立証する",
+    "first_letter": "e",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1810,
+    "english": "chore",
+    "japanese": "退屈な仕事 日常の雑事",
+    "first_letter": "c",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1811,
+    "english": "household",
+    "japanese": "家事の 家族全体",
+    "first_letter": "h",
+    "part_of_speech": "adjective"
+  },
+  {
+    "title": "1811-2",
+    "english": "household",
+    "japanese": "家族全体",
+    "first_letter": "h",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1812,
+    "english": "lifetime",
+    "japanese": "一生",
+    "first_letter": "l",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1813,
+    "english": "lifestyle",
+    "japanese": "生活様式",
+    "first_letter": "l",
+    "part_of_speech": "noun"
+  }
+]
