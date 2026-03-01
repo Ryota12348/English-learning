@@ -1,0 +1,310 @@
+[
+  {
+    "title": 1814,
+    "english": "visual",
+    "japanese": "視覚の 目に見える",
+    "first_letter": "v",
+    "part_of_speech": "adjective"
+  },
+  {
+    "title": 1815,
+    "english": "visible",
+    "japanese": "目に見える",
+    "first_letter": "v",
+    "part_of_speech": "adjective"
+  },
+  {
+    "title": 1816,
+    "english": "vision",
+    "japanese": "視力 見通す力 未来像 空想",
+    "first_letter": "v",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1817,
+    "english": "prior",
+    "japanese": "前の 優先的な",
+    "first_letter": "p",
+    "part_of_speech": "adjective"
+  },
+  {
+    "title": 1818,
+    "english": "previous",
+    "japanese": "前の",
+    "first_letter": "p",
+    "part_of_speech": "adjective"
+  },
+  {
+    "title": 1819,
+    "english": "former",
+    "japanese": "前者の",
+    "first_letter": "f",
+    "part_of_speech": "adjective"
+  },
+  {
+    "title": 1820,
+    "english": "latter",
+    "japanese": "後者の",
+    "first_letter": "l",
+    "part_of_speech": "adjective"
+  },
+  {
+    "title": 1821,
+    "english": "enhance",
+    "japanese": "価値 質 魅力などを高める より良くする",
+    "first_letter": "e",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1822,
+    "english": "focus",
+    "japanese": "集中させる 焦点を合わせる",
+    "first_letter": "f",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": "1822-2",
+    "english": "focus",
+    "japanese": "焦点 重点",
+    "first_letter": "f",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1823,
+    "english": "distinguish",
+    "japanese": "区別する",
+    "first_letter": "d",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1824,
+    "english": "contrast",
+    "japanese": "対比する よい対照となる",
+    "first_letter": "c",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": "1824-2",
+    "english": "contrast",
+    "japanese": "対照 相違",
+    "first_letter": "c",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1825,
+    "english": "track",
+    "japanese": "追う",
+    "first_letter": "t",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": "1825-2",
+    "english": "track",
+    "japanese": "跡 走路 線路 小道",
+    "first_letter": "t",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1826,
+    "english": "trail",
+    "japanese": "追跡する 引きずる",
+    "first_letter": "t",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": "1826-2",
+    "english": "trail",
+    "japanese": "跡 小道",
+    "first_letter": "t",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1827,
+    "english": "overall",
+    "japanese": "全体の 全面的な",
+    "first_letter": "o",
+    "part_of_speech": "adjective"
+  },
+  {
+    "title": "1827-2",
+    "english": "overall",
+    "japanese": "全体として",
+    "first_letter": "o",
+    "part_of_speech": "adverb"
+  },
+  {
+    "title": 1828,
+    "english": "trouble",
+    "japanese": "困ること 問題 骨折り",
+    "first_letter": "t",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": "1828-2",
+    "english": "trouble",
+    "japanese": "悩ませる 迷惑をかける",
+    "first_letter": "t",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1829,
+    "english": "bother",
+    "japanese": "悩ませる わざわざする",
+    "first_letter": "b",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1830,
+    "english": "phrase",
+    "japanese": "句 言い回し",
+    "first_letter": "p",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1831,
+    "english": "proverb",
+    "japanese": "ことわざ",
+    "first_letter": "p",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1832,
+    "english": "sentence",
+    "japanese": "文 判決",
+    "first_letter": "s",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": "1832-2",
+    "english": "sentence",
+    "japanese": "宣告する",
+    "first_letter": "s",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1833,
+    "english": "usage",
+    "japanese": "語法 使用法",
+    "first_letter": "u",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1834,
+    "english": "ahead",
+    "japanese": "前方に 事前に 出世して",
+    "first_letter": "a",
+    "part_of_speech": "adverb"
+  },
+  {
+    "title": 1835,
+    "english": "forth",
+    "japanese": "前へ 外へ",
+    "first_letter": "f",
+    "part_of_speech": "adverb"
+  },
+  {
+    "title": 1836,
+    "english": "aloud",
+    "japanese": "声に出して",
+    "first_letter": "a",
+    "part_of_speech": "adverb"
+  },
+  {
+    "title": 1837,
+    "english": "fix",
+    "japanese": "修理する 固定する 用意する",
+    "first_letter": "f",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": 1838,
+    "english": "repair",
+    "japanese": "修理する 修復する",
+    "first_letter": "r",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": "1838-2",
+    "english": "repair",
+    "japanese": "修理",
+    "first_letter": "r",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1839,
+    "english": "virtually",
+    "japanese": "ほとんど 実質的には",
+    "first_letter": "v",
+    "part_of_speech": "adverb"
+  },
+  {
+    "title": 1840,
+    "english": "engineering",
+    "japanese": "工学 技術",
+    "first_letter": "e",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1841,
+    "english": "mechanic",
+    "japanese": "機械工",
+    "first_letter": "m",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1842,
+    "english": "machinery",
+    "japanese": "機械 装置",
+    "first_letter": "m",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1843,
+    "english": "figure",
+    "japanese": "と思う",
+    "first_letter": "f",
+    "part_of_speech": "verb"
+  },
+  {
+    "title": "1843-2",
+    "english": "figure",
+    "japanese": "数字 姿 人物 図形",
+    "first_letter": "f",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1844,
+    "english": "chart",
+    "japanese": "図表 海図",
+    "first_letter": "c",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1845,
+    "english": "square",
+    "japanese": "正方形",
+    "first_letter": "s",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1846,
+    "english": "circle",
+    "japanese": "円",
+    "first_letter": "c",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1847,
+    "english": "column",
+    "japanese": "円柱 コラム",
+    "first_letter": "c",
+    "part_of_speech": "noun"
+  },
+  {
+    "title": 1848,
+    "english": "operate",
+    "japanese": "操作する 動く 作用する 手術する",
+    "first_letter": "o",
+    "part_of_speech": "verb"
+  }
+]
