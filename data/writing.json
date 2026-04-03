@@ -1,0 +1,49 @@
+{
+"questions": [
+{
+  "title": "英作文問題",
+  "question": "「トム、ごはんですよ。」「わかったよ、母さん。すぐ行くよ」",
+  "answers": [
+    "Tom, dinner is ready. \"Okay, Mom. I'll be right there.\"",
+    "Tom, it's time for dinner. \"Got it, Mom. I'm coming right away.\""
+  ],
+  "hint": "呼びかけ＋現在形で状況を伝える。「すぐ行く」は be right there / come right away"
+},
+{
+"title": "英作文問題",
+"question": "インターネットの普及と共に、ここ数年、パソコンの売り上げが急速に伸びている。",
+"answers": [
+"With the spread of the internet, computer sales have increased rapidly in recent years.",
+"As the internet has become widespread, sales of computers have grown rapidly over the past few years."
+],
+"hint": "「〜と共に」は with / as。「ここ数年」は現在完了＋in recent years"
+},
+{
+"title": "英作文問題",
+"question": "ここからディズニーまで電車で行くなら、3回も乗り換えが必要です。",
+"answers": [
+"If you go to Disney from here by train, you have to transfer three times.",
+"To get to Disney from here by train, you need to change trains three times."
+],
+"hint": "「乗り換える」は transfer / change trains。「〜するなら」は if"
+},
+{
+"title": "英作文問題",
+"question": "地面の下に埋められている地雷を取り除くには大金がかかる。",
+"answers": [
+"It costs a lot of money to remove landmines buried underground.",
+"Removing landmines buried under the ground requires a large amount of money."
+],
+"hint": "形式主語 It costs ... to〜 / 動名詞主語も可。「埋められている」は過去分詞"
+},
+{
+"title": "英作文問題",
+"question": "幸いなことに、アメリカで車を所有するための費用は、日本でよりもかなり低めです。",
+"answers": [
+"Fortunately, the cost of owning a car in the U.S. is much lower than in Japan.",
+"Luckily, it is much cheaper to own a car in the United States than in Japan."
+],
+"hint": "「幸いなことに」は fortunately / luckily。「比較」は much lower than"
+}
+]
+}
