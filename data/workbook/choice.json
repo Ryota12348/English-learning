@@ -1,0 +1,324 @@
+[
+  {
+    "title": "宮崎大",
+    "question": "Mr. Richard ____ his position as an ALT at the beginning of the next month.",
+    "hint": "リチャード氏は来月の初めにALTとしての職に就く予定です。",
+    "choices": ["has been started", "started", "has started", "will be started"],
+    "answer": "will be started",
+    "type": "select",
+    "comment": {
+      "has been started": "始められている",
+      "started": "始めた",
+      "has started": "始めている",
+      "will be started": "始められる"
+    }
+  },
+  {
+    "title": "慶應義塾大",
+    "question": "Mental training, such as visualization and meditation, ____ athletes over the years.",
+    "hint": "イメージトレーニングや瞑想などのメンタルトレーニングは、長年にわたりアスリートたちによって実践されてきた。",
+    "choices": ["has practiced", "has been practiced by", "has been practicing", "has been practice among"],
+    "answer": "has been practiced by",
+    "type": "select",
+    "comment": {
+      "has practiced": "実践してきた",
+      "has been practiced by": "〜によって実践されてきた",
+      "has been practicing": "実践し続けている",
+      "has been practice among": "〜の間で実践である（誤り）"
+    }
+  },
+  {
+    "title": "北海学園大",
+    "question": "There's nothing particular I need to do, so I ____ just stay at home.",
+    "hint": "特にすることがないので、家にいるかもしれません。",
+    "choices": ["may", "can't", "must", "couldn't"],
+    "answer": "may",
+    "type": "select",
+    "comment": {
+      "may": "〜かもしれない",
+      "can't": "〜できない",
+      "must": "〜しなければならない",
+      "couldn't": "〜できなかった"
+    }
+  },
+  {
+    "title": "追手門学院大",
+    "question": "You should make a reservation ____.",
+    "hint": "できるだけ早く予約したほうがよい。",
+    "choices": ["quickly as possibly as you can", "quickly as possibly as", "as possibly quickly as you can", "as quickly as possible"],
+    "answer": "as quickly as possible",
+    "type": "select",
+    "comment": {
+      "quickly as possibly as you can": "できるだけ早く（誤り）",
+      "quickly as possibly as": "できるだけ早く（誤り）",
+      "as possibly quickly as you can": "できるだけ早く（誤り）",
+      "as quickly as possible": "できるだけ早く"
+    }
+  },
+  {
+    "title": "藤女子大",
+    "question": "The secretary had her salary ____ twice a year.",
+    "hint": "その秘書は年に2回給料を上げてもらった。",
+    "choices": ["raise", "raised", "risen", "rose"],
+    "answer": "raised",
+    "type": "select",
+    "comment": {
+      "raise": "上げる",
+      "raised": "上げられた",
+      "risen": "上昇した",
+      "rose": "上昇した"
+    }
+  },
+  {
+    "title": "立命館大",
+    "question": "I was spoken ____ a foreigner in fluent Japanese when I was in Kyoto.",
+    "hint": "京都にいたとき、私は外国人なのに流暢な日本語で話しかけられた。",
+    "choices": ["by", "to", "to by", "with"],
+    "answer": "to by",
+    "type": "select",
+    "comment": {
+      "by": "〜によって",
+      "to": "〜に",
+      "to by": "〜によって〜に（受動態表現）",
+      "with": "〜で"
+    }
+  },
+  {
+    "title": "センター試験",
+    "question": "After he joined the travel agency, he worked hard to improve his English in order to carry ____ his duties more effectively.",
+    "hint": "旅行会社に入社後、職務をより効果的に遂行するため英語力向上に努めた。",
+    "choices": ["away", "back", "off", "out"],
+    "answer": "out",
+    "type": "select",
+    "comment": {
+      "away": "離れて",
+      "back": "戻って",
+      "off": "離れて",
+      "out": "遂行して"
+    }
+  },
+  {
+    "title": "センター試験",
+    "question": "Eric's friends, Minoru and Sachiko, will be here at seven this evening. He ____ doing his homework by then.",
+    "hint": "今夜7時までには宿題を終えているだろう。",
+    "choices": ["has been finished", "has finished", "will have finished", "would finish"],
+    "answer": "will have finished",
+    "type": "select",
+    "comment": {
+      "has been finished": "終えられている",
+      "has finished": "終えている",
+      "will have finished": "終えているだろう",
+      "would finish": "終えるだろう"
+    }
+  },
+  {
+    "title": "東京電機大",
+    "question": "\"Has Nancy arrived yet?\" \"Not yet. She ____ come by now.\"",
+    "hint": "ナンシーは今頃来ているはずだ。",
+    "choices": ["has had to", "ought to", "should have", "would rather"],
+    "answer": "ought to",
+    "type": "select",
+    "comment": {
+      "has had to": "〜しなければならなかった",
+      "ought to": "〜のはずだ",
+      "should have": "〜したはずだ",
+      "would rather": "むしろ〜したい"
+    }
+  },
+  {
+    "title": "国士舘大",
+    "question": "The longer the members of the party were lost in the mountains, ____ to freeze to death.",
+    "hint": "山中で遭難している時間が長いほど、凍死する可能性が高くなった。",
+    "choices": ["they were more likely", "they were less likely", "the less likely they were", "the more likely they were"],
+    "answer": "the more likely they were",
+    "type": "select",
+    "comment": {
+      "they were more likely": "より可能性が高かった",
+      "they were less likely": "可能性が低かった",
+      "the less likely they were": "その分可能性が低かった",
+      "the more likely they were": "その分可能性が高かった"
+    }
+  },
+  {
+    "title": "名古屋学院大",
+    "question": "Mike kept me ____ for many hours last night.",
+    "hint": "マイクのせいで昨夜何時間も待たされた。",
+    "choices": ["wait", "to wait", "waited", "waiting"],
+    "answer": "waiting",
+    "type": "select",
+    "comment": {
+      "wait": "待つ",
+      "to wait": "待つこと",
+      "waited": "待った",
+      "waiting": "待っている状態で"
+    }
+  },
+  {
+    "title": "南山大",
+    "question": "I must ____ that I didn't work hard on my final report.",
+    "hint": "期末レポートをあまり頑張らなかったことを認めなければならない。",
+    "choices": ["request", "admit", "forbid", "complain"],
+    "answer": "admit",
+    "type": "select",
+    "comment": {
+      "request": "要求する",
+      "admit": "認める",
+      "forbid": "禁止する",
+      "complain": "不平を言う"
+    }
+  },
+  {
+    "title": "法政大",
+    "question": "Rats have been widely used in medical research because they ____ a number of traits with humans.",
+    "hint": "ネズミは人間と多くの特徴を共有しているため医学研究に使われている。",
+    "choices": ["are sharing", "have shared", "shared", "share"],
+    "answer": "share",
+    "type": "select",
+    "comment": {
+      "are sharing": "共有している最中である",
+      "have shared": "共有してきた",
+      "shared": "共有した",
+      "share": "共有する"
+    }
+  },
+  {
+    "title": "日本女子大",
+    "question": "The girl ____ in such a friendly manner.",
+    "hint": "その少女はそのような親切な扱いを受けることに慣れていなかった。",
+    "choices": ["would like to treat to", "was not treated to", "used to treating", "was not used to being treated"],
+    "answer": "was not used to being treated",
+    "type": "select",
+    "comment": {
+      "would like to treat to": "もてなしたい",
+      "was not treated to": "もてなされなかった",
+      "used to treating": "もてなすことに慣れていた",
+      "was not used to being treated": "もてなされることに慣れていなかった"
+    }
+  },
+  {
+    "title": "東京経済大",
+    "question": "I had a lot of difficulty ____ a good place to live near my college.",
+    "hint": "大学の近くで良い住居を見つけるのに苦労した。",
+    "choices": ["found", "for finding", "of finding", "finding"],
+    "answer": "finding",
+    "type": "select",
+    "comment": {
+      "found": "見つけた",
+      "for finding": "見つけるために",
+      "of finding": "見つけることの",
+      "finding": "見つけること"
+    }
+  },
+  {
+    "title": "大阪経済大",
+    "question": "Not a ____ students are interested in speaking English.",
+    "hint": "英語を話すことに興味がある学生はほとんどいない。",
+    "choices": ["little", "few", "many", "much"],
+    "answer": "few",
+    "type": "select",
+    "comment": {
+      "little": "ほとんどない",
+      "few": "ほとんどいない",
+      "many": "多くの",
+      "much": "たくさんの"
+    }
+  },
+  {
+    "title": "慶應義塾大",
+    "question": "The new regulations were successful in protecting local industry and, ____, they led to the creation of many new jobs.",
+    "hint": "新しい規制は地域産業を守るだけでなく、多くの雇用も生み出した。",
+    "choices": ["just in case", "on the contrary", "what is more", "in other words"],
+    "answer": "what is more",
+    "type": "select",
+    "comment": {
+      "just in case": "念のため",
+      "on the contrary": "それどころか",
+      "what is more": "そのうえ",
+      "in other words": "言い換えれば"
+    }
+  },
+  {
+    "title": "愛知大",
+    "question": "The story I read in today's English class was really ____ to me.",
+    "hint": "今日の英語の授業で読んだ話はとても面白かった。",
+    "choices": ["interesting", "interested", "interest", "being interested"],
+    "answer": "interesting",
+    "type": "select",
+    "comment": {
+      "interesting": "面白い",
+      "interested": "興味を持った",
+      "interest": "興味",
+      "being interested": "興味を持っていること"
+    }
+  },
+  {
+    "title": "大阪経済大",
+    "question": "Since I was a child, I've always wanted to study ____.",
+    "hint": "私は子どもの頃からずっと海外で勉強したいと思っていた。",
+    "choices": ["abroad", "for abroad", "in abroad", "to abroad"],
+    "answer": "abroad",
+    "type": "select",
+    "comment": {
+      "abroad": "海外で",
+      "for abroad": "海外のために",
+      "in abroad": "海外で（誤り）",
+      "to abroad": "海外へ（誤り）"
+    }
+  },
+  {
+    "title": "武蔵大",
+    "question": "Susan woke up three times ____ the night.",
+    "hint": "スーザンは夜中に3回目を覚ました。",
+    "choices": ["at", "by", "during", "for"],
+    "answer": "during",
+    "type": "select",
+    "comment": {
+      "at": "〜に",
+      "by": "〜までに",
+      "during": "〜の間に",
+      "for": "〜のために"
+    }
+  },
+  {
+    "title": "獨協医科大",
+    "question": "The engine caught fire, but the aircraft ____ escaped crashing thanks to the great skill of the pilot.",
+    "hint": "エンジンから出火したが、操縦士の技術で飛行機は辛うじて墜落を免れた。",
+    "choices": ["almost", "hardly", "closely", "narrowly"],
+    "answer": "narrowly",
+    "type": "select",
+    "comment": {
+      "almost": "ほとんど",
+      "hardly": "ほとんど〜ない",
+      "closely": "接近して",
+      "narrowly": "かろうじて"
+    }
+  },
+  {
+    "title": "愛知学院大",
+    "question": "I'm afraid it ____ rain. Let's go inside.",
+    "hint": "雨が降りそうだから中に入ろう。",
+    "choices": ["has to", "is able to", "is about to", "ought to"],
+    "answer": "is about to",
+    "type": "select",
+    "comment": {
+      "has to": "〜しなければならない",
+      "is able to": "〜できる",
+      "is about to": "今にも〜しそうだ",
+      "ought to": "〜すべきだ"
+    }
+  },
+  {
+    "title": "慶應義塾大",
+    "question": "After the incident, there was considerable doubt ____ exactly what had happened.",
+    "hint": "その事件の後、何が起きたのかについて大きな疑問があった。",
+    "choices": ["in the question of", "as to", "in the shape of", "for"],
+    "answer": "as to",
+    "type": "select",
+    "comment": {
+      "in the question of": "〜という問題で",
+      "as to": "〜について",
+      "in the shape of": "〜の形で",
+      "for": "〜のために"
+    }
+  }
+]
