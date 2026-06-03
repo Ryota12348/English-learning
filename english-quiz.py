@@ -161,7 +161,7 @@ def main():
         # =========================
         json_path = genre_dir / "choice.json"
         questions = load_questions(json_path)
-
+            print(f"問題数: {len(questions)}")
         random.shuffle(questions)
         questions = questions[:num]
 
