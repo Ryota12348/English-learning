@@ -19,7 +19,7 @@ class Color:
 # =========================
 # パス設定
 # =========================
-BASE_DIR = Path(r"C:\Users\user\Desktop\a-Shall\eiken\eiken")
+BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = BASE_DIR / "data"
 
 # =========================
