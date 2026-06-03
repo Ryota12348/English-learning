@@ -320,5 +320,323 @@
       "in the shape of": "〜の形で",
       "for": "〜のために"
     }
+  },
+  {
+    "title": "南山大",
+    "question": "If Yuko does not arrive by 3:30, then it is ____ that she will come.",
+    "hint": "由子が3時30分までに来なければ、来る見込みは低い。",
+    "choices": ["unusual", "unnecessary", "unable", "unlikely"],
+    "answer": "unlikely",
+    "type": "select",
+    "comment": {
+      "unusual": "異常な",
+      "unnecessary": "不要な",
+      "unable": "できない",
+      "unlikely": "ありそうにない"
+    }
+  },
+  {
+    "title": "東京経済大",
+    "question": "____ their native language, Japanese students should also have a good command of English.",
+    "hint": "母語に加えて、日本の学生は英語もしっかり使いこなせるべきだ。",
+    "choices": ["In addition", "Moreover", "As well", "Besides"],
+    "answer": "Besides",
+    "type": "select",
+    "comment": {
+      "In addition": "さらに",
+      "Moreover": "そのうえ",
+      "As well": "同様に",
+      "Besides": "〜に加えて"
+    }
+  },
+  {
+    "title": "慶應義塾大",
+    "question": "Appointments are made on the basis of test scores, ____ of age, sex, or nationality.",
+    "hint": "採用は年齢・性別・国籍に関係なく、試験の成績に基づいて行われる。",
+    "choices": ["pointless", "regardless", "reckless", "useless"],
+    "answer": "regardless",
+    "type": "select",
+    "comment": {
+      "pointless": "無意味な",
+      "regardless": "〜に関係なく",
+      "reckless": "無謀な",
+      "useless": "役に立たない"
+    }
+  },
+  {
+    "title": "青山学院大",
+    "question": "The boy turned on his father's computer, though he had been told ____.",
+    "hint": "その少年は、そうしないように言われていたにもかかわらず父親のコンピュータをつけた。",
+    "choices": ["not do it", "not to", "to do not", "to not"],
+    "answer": "not to",
+    "type": "select",
+    "comment": {
+      "not do it": "それをしない",
+      "not to": "そうしないように",
+      "to do not": "しないために（誤り）",
+      "to not": "しないために（不自然）"
+    }
+  },
+  {
+    "title": "南山大",
+    "question": "____ your interest in English, I would advise you to study it in college.",
+    "hint": "あなたの英語への興味を考えると、大学で英語を勉強することを勧めます。",
+    "choices": ["Considered", "Taken", "Having", "Given"],
+    "answer": "Given",
+    "type": "select",
+    "comment": {
+      "Considered": "考慮された",
+      "Taken": "取られた",
+      "Having": "持っている",
+      "Given": "〜を考慮すると"
+    }
+  },
+  {
+    "title": "立命館大",
+    "question": "Winning Saturday's game is ____ if the team is to go through to the finals.",
+    "hint": "決勝に進むには土曜日の試合に勝つことが極めて重要だ。",
+    "choices": ["crucial", "defiant", "genial", "implicit"],
+    "answer": "crucial",
+    "type": "select",
+    "comment": {
+      "crucial": "極めて重要な",
+      "defiant": "反抗的な",
+      "genial": "親切な",
+      "implicit": "暗黙の"
+    }
+  },
+  {
+    "title": "神戸学院大",
+    "question": "I am sorry to hear that you didn't win the game. If ____ you had practiced harder.",
+    "hint": "試合に勝てなかったと聞いて残念です。もっと一生懸命練習していればよかったのに。",
+    "choices": ["only", "that", "necessary", "ever"],
+    "answer": "only",
+    "type": "select",
+    "comment": {
+      "only": "もし〜でさえあれば",
+      "that": "そのこと",
+      "necessary": "必要な",
+      "ever": "これまでに"
+    }
+  },
+  {
+    "title": "亜細亜大",
+    "question": "How ____ can you come back to Tokyo?",
+    "hint": "どのくらい早く東京に戻れますか。",
+    "choices": ["many", "under", "soon", "over"],
+    "answer": "soon",
+    "type": "select",
+    "comment": {
+      "many": "多くの",
+      "under": "〜の下に",
+      "soon": "早く",
+      "over": "〜を越えて"
+    }
+  },
+  {
+    "title": "宮崎大",
+    "question": "How come ____ bring your wife?",
+    "hint": "どうして奥さんを連れて来なかったのですか。",
+    "choices": ["did you", "did you not", "didn't you", "you didn't"],
+    "answer": "you didn't",
+    "type": "select",
+    "comment": {
+      "did you": "あなたはしましたか",
+      "did you not": "あなたはしなかったのですか",
+      "didn't you": "しなかったのですか",
+      "you didn't": "あなたはしなかった"
+    }
+  },
+  {
+    "title": "東京経済大",
+    "question": "____ present at the meeting yesterday were all against the plan.",
+    "hint": "昨日会議に出席していた人は全員その計画に反対だった。",
+    "choices": ["Those", "That", "They", "There"],
+    "answer": "Those",
+    "type": "select",
+    "comment": {
+      "Those": "その人たち",
+      "That": "それ",
+      "They": "彼らは",
+      "There": "そこに"
+    }
+  },
+  {
+    "title": "藤女子大",
+    "question": "The hamburger tasted so good that I'd like ____.",
+    "hint": "そのハンバーガーはとてもおいしかったので、もう1つ欲しい。",
+    "choices": ["another", "other", "others", "the other"],
+    "answer": "another",
+    "type": "select",
+    "comment": {
+      "another": "もう1つ",
+      "other": "他の",
+      "others": "他のものたち",
+      "the other": "残りの1つ"
+    }
+  },
+  {
+    "title": "名城大",
+    "question": "Readers can send their submissions either by filling out an online form ____ by e-mail.",
+    "hint": "読者はオンラインフォームまたは電子メールで投稿できる。",
+    "choices": ["and", "before", "nor", "or"],
+    "answer": "or",
+    "type": "select",
+    "comment": {
+      "and": "そして",
+      "before": "〜の前に",
+      "nor": "〜でもない",
+      "or": "または"
+    }
+  },
+  {
+    "title": "摂南大",
+    "question": "You should leave the spare key with your neighbor ____ you lock yourself out.",
+    "hint": "締め出される場合に備えて予備の鍵を隣人に預けるべきだ。",
+    "choices": ["in order that", "owing to", "so that", "in case"],
+    "answer": "in case",
+    "type": "select",
+    "comment": {
+      "in order that": "〜するために",
+      "owing to": "〜のために",
+      "so that": "〜するように",
+      "in case": "〜の場合に備えて"
+    }
+  },
+  {
+    "title": "立命館大",
+    "question": "I ____ to call you last night, but you didn't answer your phone.",
+    "hint": "昨夜電話しようとしたが、あなたは電話に出なかった。",
+    "choices": ["am trying", "could try", "did try", "were trying"],
+    "answer": "did try",
+    "type": "select",
+    "comment": {
+      "am trying": "しようとしている",
+      "could try": "しようとできた",
+      "did try": "実際にしようとした",
+      "were trying": "しようとしていた"
+    }
+  },
+  {
+    "title": "中央大",
+    "question": "I hardly ever go shopping on rainy days. = I ____ shop on rainy days.",
+    "hint": "雨の日にはめったに買い物に行かない。",
+    "choices": ["frequently", "generally", "often", "rarely"],
+    "answer": "rarely",
+    "type": "select",
+    "comment": {
+      "frequently": "頻繁に",
+      "generally": "一般的に",
+      "often": "よく",
+      "rarely": "めったに〜ない"
+    }
+  },
+  {
+    "title": "麗澤大",
+    "question": "It is a real ____ that our concert has to be cancelled.",
+    "hint": "私たちのコンサートが中止になったのは本当に残念だ。",
+    "choices": ["sauce", "cure", "victory", "shame"],
+    "answer": "shame",
+    "type": "select",
+    "comment": {
+      "sauce": "ソース",
+      "cure": "治療",
+      "victory": "勝利",
+      "shame": "残念なこと"
+    }
+  },
+  {
+    "title": "上智大",
+    "question": "Driving after drinking alcohol is ____ the question.",
+    "hint": "飲酒後の運転は論外だ。",
+    "choices": ["whichever", "out of", "beyond", "not"],
+    "answer": "out of",
+    "type": "select",
+    "comment": {
+      "whichever": "どちらでも",
+      "out of": "論外で",
+      "beyond": "〜を超えて",
+      "not": "〜でない"
+    }
+  },
+  {
+    "title": "上智大",
+    "question": "You will have to use the stairs, I'm afraid. The elevator is out of ____.",
+    "hint": "エレベーターが故障中なので階段を使わなければならない。",
+    "choices": ["function", "form", "order", "work"],
+    "answer": "order",
+    "type": "select",
+    "comment": {
+      "function": "機能",
+      "form": "形",
+      "order": "正常な状態",
+      "work": "仕事"
+    }
+  },
+  {
+    "title": "神奈川大",
+    "question": "A: Could you tell me how to get to Oak Street Station? B: I'm sorry, I'm a stranger here myself. A: ____",
+    "hint": "道を知らないと言われたときの自然な返答。",
+    "choices": ["Not too bad.", "You're welcome.", "Are you sure?", "Thanks anyway."],
+    "answer": "Thanks anyway.",
+    "type": "select",
+    "comment": {
+      "Not too bad.": "まあまあです",
+      "You're welcome.": "どういたしまして",
+      "Are you sure?": "本当ですか",
+      "Thanks anyway.": "それでもありがとう"
+    }
+  },
+  {
+    "title": "摂南大",
+    "question": "Would you ____ turning down the volume on your music player?",
+    "hint": "音楽プレーヤーの音量を下げていただけますか。",
+    "choices": ["mind", "hear", "make sure", "like to"],
+    "answer": "mind",
+    "type": "select",
+    "comment": {
+      "mind": "気にする",
+      "hear": "聞く",
+      "make sure": "確認する",
+      "like to": "〜したい"
+    }
+  },
+  {
+    "title": "上智大",
+    "question": "A third wave of migrants arrived about 5,000 years ago, when the ancestors of the Inuit settled the Arctic coast of North America ____ islands south and west of Alaska.",
+    "hint": "イヌイットの祖先が北米北極海沿岸に定住した一方で、他の集団はアラスカ南西の島々に住み着いた。",
+    "choices": [
+      "although some others placed",
+      "during the other groups reached",
+      "meantime some positioned",
+      "while others occupied"
+    ],
+    "answer": "while others occupied",
+    "type": "select",
+    "comment": {
+      "although some others placed": "他の者が配置したが",
+      "during the other groups reached": "他の集団が到達した間に",
+      "meantime some positioned": "その間に位置した",
+      "while others occupied": "一方で他の者は占有した"
+    }
+  },
+  {
+    "title": "東京経済大",
+    "question": "To ensure everything goes smoothly, I would appreciate you giving me as ____ possible regarding your requirements.",
+    "hint": "すべてを円滑に進めるため、要望についてできるだけ多くの情報をいただきたい。",
+    "choices": [
+      "many information as",
+      "many as information",
+      "much information as",
+      "much as information"
+    ],
+    "answer": "much information as",
+    "type": "select",
+    "comment": {
+      "many information as": "多くの情報（誤り）",
+      "many as information": "多くの情報（誤り）",
+      "much information as": "できるだけ多くの情報",
+      "much as information": "情報と同じくらい（誤り）"
+    }
   }
 ]
