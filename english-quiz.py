@@ -166,6 +166,10 @@ def main():
 
             print(f"1～{len(questions)} の数字を入力してください。")
 
+        # ← 追加
+        random.shuffle(questions)
+        questions = questions[:num]
+
         print(f"\n{Color.GREEN}{genre_name} / 選択肢 / {num}問{Color.RESET}")
         input(f"{Color.YELLOW}Press Enter to start...{Color.RESET}")
 
