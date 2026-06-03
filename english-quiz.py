@@ -147,23 +147,24 @@ def main():
             continue
 
         # =========================
-        # 問題数（直接入力）
-        # =========================
-        while True:
-            raw = input("How many questions? : ").strip()
-            if raw.isdigit() and int(raw) > 0:
-                num = int(raw)
-                break
-            print("Please enter a positive number.")
-
-        # =========================
         # 問題ロード
         # =========================
         json_path = genre_dir / "choice.json"
         questions = load_questions(json_path)
+
         print(f"問題数: {len(questions)}")
-        random.shuffle(questions)
-        questions = questions[:num]
+
+        # =========================
+        # 問題数（直接入力）
+        # =========================
+        while True:
+            raw = input("How many questions? : ").strip()
+
+            if raw.isdigit() and 0 < int(raw) <= len(questions):
+                num = int(raw)
+                break
+
+            print(f"1～{len(questions)} の数字を入力してください。")
 
         print(f"\n{Color.GREEN}{genre_name} / 選択肢 / {num}問{Color.RESET}")
         input(f"{Color.YELLOW}Press Enter to start...{Color.RESET}")
